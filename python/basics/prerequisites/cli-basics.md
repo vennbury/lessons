@@ -1,8 +1,6 @@
 ---
-title: "Intro to programming"
-header: "Introduction to programming"
-priority: "2"
-tags:
-  - nextjs
+title: "CLI Basics"
+header: "Command Line Basics"
+priority: "3"
 dictionary: {}
 ---

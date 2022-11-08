@@ -1,6 +1,6 @@
 ---
-title: "Next.js static HTML export"
-metaTitle: "What you need"
-metaDesc: "Creating a static HTML export Next.js application"
+title: "Join the community"
+header: "Join the community"
 priority: "5"
+dictionary: {}
 ---

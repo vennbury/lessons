@@ -2,8 +2,6 @@
 title: "Intro to programming"
 header: "Introduction to programming"
 priority: "2"
-tags:
-  - nextjs
 dictionary: {
   "Introduction":
    "Resources to introduce you to programming.", 

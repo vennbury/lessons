@@ -1,8 +1,6 @@
 ---
-title: "Intro to programming"
-header: "Introduction to programming"
-priority: "2"
-tags:
-  - nextjs
+title: "Asking for Help"
+header: "Asking for Help"
+priority: "4"
 dictionary: {}
 ---

@@ -1,8 +1,6 @@
 ---
-title: "Intro to programming"
-header: "Introduction to programming"
-priority: "2"
-tags:
-  - nextjs
+title: "Setting up Git"
+header: "Setting up Git"
+priority: "4"
 dictionary: {}
 ---
