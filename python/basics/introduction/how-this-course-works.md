@@ -19,4 +19,5 @@ dictionary:
 
       We would wish you good luck, but it's not about luck. Be consistent, do not give up, and nothing will stop you!",
   }
+next: "intro-to-programming"
 ---

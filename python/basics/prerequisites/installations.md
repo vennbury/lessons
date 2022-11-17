@@ -14,4 +14,5 @@ dictionary: {"Python": "- [Installing Python](https://realpython.com/installing-
 - [Command line basics](https://www.computerhope.com/issues/chusedos.htm#:~:text=How%20to%20use%20the%20Windows%20command%20line%20%28DOS%29,directory%20...%208%20Switching%20drives%20...%20More%20items)\n
 - [CL cheatsheet](https://serverspace.us/support/help/windows-cmd-commands-cheat-sheet/#:~:text=Windows%20CMD%20Commands%20Cheat%20Sheet%201%20Files%20and,Command%20Line%20Setup%20CLS%20-%20Clears%20screen%20)\n"
 }
+next: "text-editors"
 ---
