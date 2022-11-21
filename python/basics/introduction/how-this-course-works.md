@@ -1,7 +1,7 @@
 ---
 title: "How this course works"
 header: "How this course works"
-priority: "2"
+priority: "1"
 dictionary:
   {
     "Introduction":
