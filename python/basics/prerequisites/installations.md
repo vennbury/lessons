@@ -1,7 +1,6 @@
 ---
-title: "Installations"
-metaTitle: "Installations"
-metaDesc: "Required installations for the course"
+title: "Installation"
+header: "Installation"
 priority: "1"
 tags:
   - nextjs
