@@ -2,6 +2,8 @@
 title: "How this course works"
 header: "How this course works"
 priority: "1"
+unit: "introduction"
+lesson: "howThisCourseWorks"
 dictionary:
   {
     "Introduction":

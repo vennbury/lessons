@@ -2,6 +2,8 @@
 title: "Installation"
 header: "Installation"
 priority: "1"
+unit: "prerequisites"
+lesson: "installations"
 tags:
   - nextjs
 dictionary: {

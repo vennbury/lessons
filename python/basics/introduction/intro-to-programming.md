@@ -2,6 +2,8 @@
 title: "Intro to programming"
 header: "Introduction to programming"
 priority: "2"
+unit: "introduction"
+lesson: "introToProgramming"
 dictionary: {
   "Introduction":
    "Resources to introduce you to programming.", 

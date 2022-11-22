@@ -2,6 +2,8 @@
 title: "Git Basics"
 header: "Git Basics"
 priority: "1"
+unit: "gitBasics"
+lesson: "gitBasics"
 tags:
   - nextjs
 dictionary:

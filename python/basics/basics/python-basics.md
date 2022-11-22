@@ -1,6 +1,8 @@
 ---
 title: "Python Basics"
 header: "Python Basics"
+unit: "basics"
+lesson: "pythonBasics"
 priority: "1"
 tags:
   - nextjs
