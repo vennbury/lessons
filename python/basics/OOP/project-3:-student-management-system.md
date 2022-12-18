@@ -1,12 +1,11 @@
 ---
 title: "Student Management System"
-header: "Student Management System"
 unit: "OOP"
 lesson: "project3StudentManagementSystem"
 priority: "2"
-dictionary:
-  {
-    "": "In this project, we will learn the basics of Object-Oriented Programming. You are given two classes, the first is the student class which defines a student name, the id, and the gpa. The second class is student management class which has some methods which you will have to fill in. Each of the methods has a docstring explaining the function of the method. Fork the replit [here](https://replit.com/@Vennbury/StudentManagementSystem#main.py).",
-  }
 next: "none"
 ---
+
+# Tic Tac Toe Project
+
+In this project, we will practice with the basics of Object-Oriented Programming. Tic Tac Toe is a game played on a 3 by 3 grid with two players marking their spaces with X’s and O’s. You can read more about the game and rules [here](https://en.wikipedia.org/wiki/Tic-tac-toe). We will construct this game for two players to play in the console. There will be two classes: Game and Board. Game will be in charge of the gameplay and the Board will be responsible for constructing and manipulating the board. Fill in the following code structure to construct the game.
