@@ -3,7 +3,7 @@ title: "Advanced Functions"
 priority: "1"
 unit: "advancedFunctions"
 lesson: "advancedFunctions"
-next: "advanced-functions-exercises"
+next: "advanced-functions/advanced-functions-exercises"
 ---
 
 # Advanced Functions

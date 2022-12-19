@@ -2,8 +2,8 @@
 title: "Modules and Packages"
 unit: "basics"
 lesson: "modulesAndPackages"
-priority: "3"
-next: "math-and-random-modules"
+priority: 3
+next: basics/math-and-random-modules
 ---
 
 # Modules and Packages

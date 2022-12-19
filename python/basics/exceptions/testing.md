@@ -2,8 +2,8 @@
 title: "Testing"
 unit: "exceptions"
 lesson: "testing"
-priority: "3"
-next: "none"
+priority: 3
+next: OOP/object--oriented-programming
 ---
 
 # Testing in Python

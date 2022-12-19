@@ -3,7 +3,7 @@ title: "Function Exercises"
 priority: "2"
 unit: "advancedFunctions"
 lesson: "advancedFunctionsExercises"
-next: "none"
+next: "exceptions/exceptions-and-raising-errors"
 ---
 
 # Exercises with Functions

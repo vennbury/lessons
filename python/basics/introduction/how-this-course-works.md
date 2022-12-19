@@ -3,7 +3,7 @@ title: "How this course works"
 priority: "1"
 unit: "introduction"
 lesson: "howThisCourseWorks"
-next: "intro-to-programming"
+next: "introduction/intro-to-programming"
 ---
 
 # How this course works

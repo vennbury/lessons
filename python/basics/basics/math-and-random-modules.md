@@ -2,8 +2,8 @@
 title: "Math and Random Modules"
 unit: "basics"
 lesson: "mathAndRandomModules"
-priority: "4"
-next: "project-1:-rock-paper-scissors"
+priority: 4
+next: basics/project-1:-rock-paper-scissors
 ---
 
 # Math and Random Modules

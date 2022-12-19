@@ -3,7 +3,7 @@ title: "Installations"
 priority: "1"
 unit: "prerequisites"
 lesson: "installations"
-next: "command-line-basics"
+next: "prerequisites/command-line-basics"
 ---
 
 # Installations

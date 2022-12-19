@@ -2,8 +2,8 @@
 title: "Regex Exercises"
 unit: "basics"
 lesson: "regularExpressionsExercises"
-priority: "7"
-next: "none"
+priority: 7
+next: "advanced-data-types/data-types"
 ---
 
 # Regex Exercises

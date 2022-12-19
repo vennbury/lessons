@@ -2,9 +2,8 @@
 title: "OOP"
 unit: "OOP"
 lesson: "object-OrientedProgramming"
-priority: "1"
-
-next: "project-3:-student-management-system"
+priority: 1
+next: OOP/project-3:-tic-tac-toe
 ---
 
 # Object-Oriented Programming

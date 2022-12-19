@@ -3,7 +3,7 @@ title: "Working with Files"
 unit: "fileSystem"
 lesson: "workingWithFiles"
 priority: "1"
-next: "working-with-OS"
+next: "file-system/working-with-OS"
 ---
 
 # Working with Files

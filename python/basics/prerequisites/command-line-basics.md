@@ -3,7 +3,7 @@ title: "Command Line Basics"
 priority: "2"
 unit: "prerequisites"
 lesson: "commandLineBasics"
-next: "learn-git"
+next: "prerequisites/learn-git"
 ---
 
 # Command Line Basics

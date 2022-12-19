@@ -1,9 +1,9 @@
 ---
 title: "Calculate Time Distance"
-priority: "1"
+priority: 1
 unit: "advancedDataTypes"
 lesson: "project2CalculateTimeDistance"
-next: "none"
+next: advanced-functions/advanced-functions
 ---
 
 # Calculate Time Distance

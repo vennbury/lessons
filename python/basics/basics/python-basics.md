@@ -3,7 +3,7 @@ title: Python Basics
 unit: basics
 lesson: pythonBasics
 priority: 1
-next: python-basics-exercises
+next: basics/python-basics-exercises
 ---
 
 # Python Basics

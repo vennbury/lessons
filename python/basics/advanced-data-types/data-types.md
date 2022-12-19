@@ -1,9 +1,9 @@
 ---
 title: "Data Types"
-priority: "1"
+priority: 1
 unit: "advancedDataTypes"
-lesson: "dataTypes"
-next: "project-2:-calculate-time-distance"
+lesson: dataTypes
+next: advanced-data-types/project-2:-calculate-time-distance
 ---
 
 # Data Types

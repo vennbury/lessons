@@ -1,9 +1,9 @@
 ---
-title: "Python Basics Exercises"
-unit: "basics"
-lesson: "pythonBasicsExercises"
-priority: "2"
-next: "modules-and-packages"
+title: Python Basics Exercises
+unit: basics
+lesson: pythonBasicsExercises
+priority: 2
+next: basics/modules-and-packages
 ---
 
 # Python Basics Exercises

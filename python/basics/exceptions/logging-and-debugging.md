@@ -3,7 +3,7 @@ title: "Logging and Debugging"
 unit: "exceptions"
 lesson: "loggingAndDebugging"
 priority: "2"
-next: "testing"
+next: "exceptions/testing"
 ---
 
 # Logging and Debugging

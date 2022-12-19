@@ -2,8 +2,8 @@
 title: "Tic Tac Toe"
 unit: "OOP"
 lesson: "project3TicTacToe"
-priority: "2"
-next: "none"
+priority: 2
+next: iterators-and-generators/iterators-and-generators
 ---
 
 # Tic Tac Toe Project

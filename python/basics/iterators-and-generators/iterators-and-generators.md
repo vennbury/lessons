@@ -1,9 +1,9 @@
 ---
 title: "Iterators and Generators"
-priority: "1"
+priority: 1
 unit: "iteratorsAndGenerators"
 lesson: "iteratorsAndGenerators"
-next: "none"
+next: file-system/working-with-files
 ---
 
 # Iterators and Generators

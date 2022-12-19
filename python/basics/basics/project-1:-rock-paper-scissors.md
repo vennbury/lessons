@@ -2,8 +2,8 @@
 title: "Rock, Paper, Scissors!"
 unit: "basics"
 lesson: "project1RockPaperScissors"
-priority: "5"
-next: "regular-expressions"
+priority: 5
+next: basics/regular-expressions
 ---
 
 # Rock, Paper, Scissors!

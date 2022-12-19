@@ -3,7 +3,7 @@ title: "Intro to programming"
 priority: "2"
 unit: "introduction"
 lesson: "introToProgramming"
-next: "none"
+next: "prerequisites/installations"
 ---
 
 # Introduction to programming
