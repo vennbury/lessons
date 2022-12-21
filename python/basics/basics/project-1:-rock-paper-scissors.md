@@ -2,8 +2,8 @@
 title: "Rock, Paper, Scissors!"
 unit: "basics"
 lesson: "project1RockPaperScissors"
-priority: 4
-next: regex/regular-expressions
+priority: 3
+next: basics/modules-and-packages
 ---
 
 # Rock, Paper, Scissors!
