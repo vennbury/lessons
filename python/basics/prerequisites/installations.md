@@ -10,19 +10,27 @@ next: "prerequisites/command-line-basics"
 
 ## Python
 
-First, we need to install the language interpreter. The installation process depends on your operating system (OS). We will be following the [RealPython](https://realpython.com)'s installation guide. Choose your os from below and follow the given steps:
-<br><br>
+First, we need to install the language interpreter. The installation process depends on your operating system (OS). We will be following the [RealPython](https://realpython.com)'s installation guide. <b>Important! Keep note of the location where you install Python. We might need it in the next section.</b>
 
-- For [Windows](https://realpython.com/installing-python/#how-to-install-python-on-windows). Follow the "Full Installer" option.
-- For [MacOS](https://realpython.com/installing-python/#how-to-install-python-on-macos). Follow the "Full Installer" option.
+<br><br>
+Choose your os from below and follow the given steps:
+
+- For [Windows](https://realpython.com/installing-python/#how-to-install-python-on-windows). Follow the "Full Installer" option and download the latest version.
+- For [MacOS](https://realpython.com/installing-python/#how-to-install-python-on-macos). Follow the "Full Installer" option and download the latest version.
 - For [Linux](https://realpython.com/installing-python/#how-to-install-python-on-linux)
   <br><br>
 
 ## Integrated Development Environment (IDE)
 
 - [Download VS Code](https://code.visualstudio.com/)
-- [Python in VS Code](https://code.visualstudio.com/docs/languages/python)
+- [Python in VS Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   <br><br>
+
+After you install Python for VS Code, you will need to select Python interpreter for any script to run.
+
+1. Open your VS Code, press `Ctlr + Shift + P`, type "python: select interpreter", and click on that option in the drop down menu.
+2. From there, you have two options: either select an automatically detected interpreter (should be the same version as you installed previously) or to enter interpreter path. If the first option is available, simply choose it and you're all set. If not, then enter the path that we asked you to save in the previous section.
+3. To check whether everything is working, create a new file called `intro.py` and open it. Your VS Code should have the interpreter version on the blue (in the original theme) strip on the bottom of the IDE window.
 
 ## Git Setup
 
