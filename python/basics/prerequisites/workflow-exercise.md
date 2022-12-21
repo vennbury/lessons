@@ -13,7 +13,7 @@ This exercise is a foundation of your workflow for the whole course. You will pr
 
 ## Exercise
 
-- <b><b>Step 1:</b></b> Assuming you're logged in to your [GitHub](https://github.com) profile, create a new repository and name it "Workflow". For now, ignore README, .gitignore, and license settings (you will learn more about them further into your developer career).
+- <b>Step 1:</b> Assuming you're logged in to your [GitHub](https://github.com) profile, create a new repository and name it "Workflow". For now, ignore README, .gitignore, and license settings (you will learn more about them further into your developer career).
 - <b>Step 2:</b> GitHub should show you a couple of ways to connect your local git to GitHub. On top, you should see a blue box with the heading like this: "Quick setup — if you’ve done this kind of thing before". There are two buttons, "HTTPS" and "SSH". Click on the latter and copy the line. (It should look like this: "git@github.com:[your-user-name]/workflow.git".)
 - <b>Step 3:</b> Open up your OS's CLI.
 - <b>Step 4:</b> Navigate into the desired folder, where you'll be storing all of your exercise and project folders, using `cd` command.
