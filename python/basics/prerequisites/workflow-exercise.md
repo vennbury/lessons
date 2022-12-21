@@ -9,7 +9,7 @@ next: "basics/python-basics"
 # Practicing Your Workflow
 
 This exercise is a foundation of your workflow for the whole course. You will practice creating GitHub repositories, cloning them on your computer, creating files with CLI, adding them to the stage area, committing, and pushing all of the changes to GitHub.
-<br><br
+<br><br>
 
 ## Exercise
 
@@ -17,7 +17,7 @@ This exercise is a foundation of your workflow for the whole course. You will pr
 - <b>Step 2:</b> GitHub should show you a couple of ways to connect your local git to GitHub. On top, you should see a blue box with the heading like this: "Quick setup — if you’ve done this kind of thing before". There are two buttons, "HTTPS" and "SSH". Click on the latter and copy the line. (It should look like this: "git@github.com:[your-user-name]/workflow.git".)
 - <b>Step 3:</b> Open up your OS's CLI.
 - <b>Step 4:</b> Navigate into the desired folder, where you'll be storing all of your exercise and project folders, using `cd` command.
-- <b>Step 5:</b> Type in `git clone ` and paste the copied SSH key from <b>Step 2.</b> (Usually, `Ctrl + V` doesn't work in CLIs. Try `Ctrl + Shift + V`. Alternatively, you can manually type the SSH key.)
+- <b>Step 5:</b> Type in `git clone` and paste the copied SSH key from <b>Step 2.</b> (Usually, `Ctrl + V` doesn't work in CLIs. Try `Ctrl + Shift + V`. Alternatively, you can manually type the SSH key.)
 - <b>Step 6:</b> Use `ls` command (or your OS's alrernative) to see whether the folder was added. After, navigate into it.
 - <b>Step 7:</b> Create a file named `first.py` and open it with `code .`. (Technically, you open the folder, not the file, but it doesn't matter for our purposes.)
 - <b>Step 8:</b> Write `print('Hello, world!')` in that file and save it using `Ctlr + S`.
