@@ -33,6 +33,7 @@ There are two ways you will write Python code in this course: via Python shell (
 ## A Quick Note on the Next Set of Videos
 
 All of the following videos are from the [Corey Schafer's](https://www.youtube.com/@coreyms) Python Basics [playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7). In this lesson, we're going to watch his Python Tutorial for Beginners 2-8, as well as some other videos. You simply need to follow links below and - <b>importantly!</b> - code along with Corey. We cannot stress enough how important it is that you start developing the muscle memory now.
+<br><br>
 
 ## Strings
 
