@@ -1,6 +1,6 @@
 ---
 title: "Regex"
-unit: "basics"
+unit: "regex"
 lesson: "regularExpressions"
 priority: 1
 next: regex/regular-expressions-exercises

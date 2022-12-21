@@ -1,6 +1,6 @@
 ---
 title: "Regex Exercises"
-unit: "basics"
+unit: "regex"
 lesson: "regularExpressionsExercises"
 priority: 2
 next: "advanced-data-types/data-types"
