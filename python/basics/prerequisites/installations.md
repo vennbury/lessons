@@ -12,7 +12,6 @@ next: "prerequisites/command-line-basics"
 
 First, we need to install the language interpreter. The installation process depends on your operating system (OS). We will be following the [RealPython](https://realpython.com)'s installation guide. <b>Important! Keep note of the location where you install Python. We might need it in the next section.</b>
 
-<br>
 Choose your os from below and follow the given steps:
 
 - For [Windows](https://realpython.com/installing-python/#how-to-install-python-on-windows). Follow the "Full Installer" option and download the latest version.
