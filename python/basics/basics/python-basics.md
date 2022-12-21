@@ -45,7 +45,6 @@ There are two ways you will write Python code in this course: via Python shell (
 
 - [Lists tuples and sets](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4)
 - [Slicing strings and lists](https://www.youtube.com/watch?v=ajrtAuDg3yw&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=19)
-- [Sorting lists tuples and objects](https://www.youtube.com/watch?v=D3JvDWO-BY4&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=21)
   <br><br>
 
 ## Dictionaries
