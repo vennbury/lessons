@@ -3,7 +3,7 @@ title: "Learn Git"
 priority: "3"
 unit: "prerequisites"
 lesson: "learnGit"
-next: "basics/python-basics"
+next: "prerequisites/project1"
 ---
 
 # Git Basics
