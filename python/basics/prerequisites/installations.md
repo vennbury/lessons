@@ -21,7 +21,7 @@ Choose your os from below and follow the given steps:
 
 ## Integrated Development Environment (IDE)
 
-- [Download VS Code](https://code.visualstudio.com/)
+- [Download VS Code](https://code.visualstudio.com/). This IDE has a store with numerous extensions for all sorts of things, but for this course, you will need only one - Python. To install it, click on the following link.
 - [Python in VS Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   <br><br>
 
