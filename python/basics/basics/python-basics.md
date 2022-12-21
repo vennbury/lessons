@@ -30,6 +30,11 @@ There are two ways you will write Python code in this course: via Python shell (
 - [Variables and operators](https://automatetheboringstuff.com/2e/chapter1/). A couple of important notes before you read this book chapter. First of all, the author uses Python shell along with an IDE called Mu. You already know how to use the shell as well as how to run scripts in VS Code, so we're going to stick to that.
   <br><br>
 
+## A Quick Note on the Next Set of Videos
+
+All of the following videos are from the [Corey Schafer's](https://www.youtube.com/@coreyms) Python Basics [playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7). In this lesson, we're going to watch his Python Tutorial for Beginners 2-8, as well as some other videos. You simply need to follow links below and - <b>importantly!</b> - code along with Corey. We cannot stress enough how important it is that you start developing the muscle memory now.
+<br><br>
+
 ## Strings
 
 - [Strings](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2)
@@ -45,25 +50,22 @@ There are two ways you will write Python code in this course: via Python shell (
 
 - [Lists tuples and sets](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4)
 - [Slicing strings and lists](https://www.youtube.com/watch?v=ajrtAuDg3yw&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=19)
-- [Sorting lists tuples and objects](https://www.youtube.com/watch?v=D3JvDWO-BY4&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=21)
   <br><br>
 
 ## Dictionaries
 
-- [Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5&t=234s)
+- [Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5)
   <br><br>
 
 ## Program Flow
 
-- [Loops and iterations](https://www.youtube.com/watch?v=DZwmZ8Usvnk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=6)
 - [Conditionals and booleans](https://www.youtube.com/watch?v=DZwmZ8Usvnk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=6)
+- [Loops and iterations](https://www.youtube.com/watch?v=6iF8Xb7Z3wQ&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=7)
   <br><br>
 
 ## Functions
 
-- [Python Functions](https://www.programiz.com/python-programming/function)
-- [Python Function Arguments](https://www.programiz.com/python-programming/function-argument)
-- [Python \*args and \*\*kwargs](https://www.programiz.com/python-programming/args-and-kwargs)
+- [Python Functions](https://www.youtube.com/watch?v=9Os0o3wzS_I&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=8)
 - [Scope](https://www.youtube.com/watch?v=QVdf0LgmICw&ab_channel=CoreySchafer)
   <br><br>
 
