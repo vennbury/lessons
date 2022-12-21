@@ -3,7 +3,7 @@ title: "Modules and Packages"
 unit: "basics"
 lesson: "modulesAndPackages"
 priority: 3
-next: basics/math-and-random-modules
+next: basics/project-1:-rock-paper-scissors
 ---
 
 # Modules and Packages

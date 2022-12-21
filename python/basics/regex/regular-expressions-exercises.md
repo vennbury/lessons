@@ -2,7 +2,7 @@
 title: "Regex Exercises"
 unit: "basics"
 lesson: "regularExpressionsExercises"
-priority: 7
+priority: 2
 next: "advanced-data-types/data-types"
 ---
 

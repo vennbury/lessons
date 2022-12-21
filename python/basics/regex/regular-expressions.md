@@ -2,8 +2,8 @@
 title: "Regex"
 unit: "basics"
 lesson: "regularExpressions"
-priority: "6"
-next: basics/regular-expressions-exercises
+priority: 1
+next: regex/regular-expressions-exercises
 ---
 
 # Regular Expressions
