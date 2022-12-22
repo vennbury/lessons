@@ -3,7 +3,7 @@ title: "Working with the OS"
 unit: "fileSystem"
 lesson: "workingWithOS"
 priority: "2"
-next: "none"
+next: "web-scraping/introduction-to-web-scraping"
 ---
 
 # Working with the Operating System

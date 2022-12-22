@@ -16,13 +16,12 @@ Choose your os from below and follow the given steps:
 
 - For [Windows](https://realpython.com/installing-python/#how-to-install-python-on-windows). Follow the "Full Installer" option and download the latest version.
 - For [MacOS](https://realpython.com/installing-python/#how-to-install-python-on-macos). Follow the "Full Installer" option and download the latest version.
-- For [Linux](https://realpython.com/installing-python/#how-to-install-python-on-linux)
+- For [Linux](https://realpython.com/installing-python/#how-to-install-python-on-linux).
   <br><br>
 
 ## Integrated Development Environment (IDE)
 
-- [Download VS Code](https://code.visualstudio.com/). This IDE has a store with numerous extensions for all sorts of things, but for this course, you will need only one - Python. To install it, click on the following link.
-- [Python in VS Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Download VS Code](https://code.visualstudio.com/). This IDE has a store with numerous extensions for all sorts of things, but for this course, you will need only one - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
   <br><br>
 
 After you install Python for VS Code, you will need to select Python interpreter for any script to run:
