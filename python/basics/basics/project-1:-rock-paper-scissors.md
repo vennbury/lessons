@@ -29,6 +29,5 @@ In this project, we will build a rock paper scissors game using the `random` mod
 13. <b>(Extra-credit!)</b> Implement displaying the score after each round and when the game ends.
 14. <b>(Extra-credit!)</b> Implement user input check. A user has to be able to put anything in the console without the game crashing.
 15. <b>(Extra-credit!)</b> Implement the ability to start the game over or exit the script.
-    <br><br>
 
 <!-- Similar to the exercises, access the replit [here](https://replit.com/@Vennbury/RockPaperScissors) for the template code and then fork it and code away! -->

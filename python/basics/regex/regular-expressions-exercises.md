@@ -3,7 +3,7 @@ title: "Regex Exercises"
 unit: "regex"
 lesson: "regularExpressionsExercises"
 priority: 2
-next: "advanced-data-types/data-types"
+next: "file-system/working-with-files"
 ---
 
 # Regex Exercises

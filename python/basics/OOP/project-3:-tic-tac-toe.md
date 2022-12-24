@@ -3,7 +3,7 @@ title: "Tic Tac Toe"
 unit: "OOP"
 lesson: "project3TicTacToe"
 priority: 2
-next: iterators-and-generators/iterators-and-generators
+next: exceptions/exceptions-and-raising-errors
 ---
 
 # Tic Tac Toe Project
