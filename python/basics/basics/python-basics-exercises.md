@@ -3,7 +3,7 @@ title: Python Basics Exercises
 unit: basics
 lesson: pythonBasicsExercises
 priority: 2
-next: basics/project-1:-rock-paper-scissors
+next: basics/rock-paper-scissors
 ---
 
 # Python Basics Exercises

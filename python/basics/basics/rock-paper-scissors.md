@@ -3,6 +3,7 @@ title: "Rock, Paper, Scissors!"
 unit: "basics"
 lesson: "project1RockPaperScissors"
 priority: 3
+project: true
 next: basics/modules-and-packages
 ---
 

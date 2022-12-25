@@ -3,7 +3,7 @@ title: "OOP"
 unit: "OOP"
 lesson: "object-OrientedProgramming"
 priority: 1
-next: OOP/project-3:-tic-tac-toe
+next: OOP/tic-tac-toe
 ---
 
 # Object-Oriented Programming
