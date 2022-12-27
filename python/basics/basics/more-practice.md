@@ -1,8 +1,8 @@
 ---
-title: Python Basics Exercises
+title: More Practice!
 unit: basics
-lesson: pythonBasicsExercises
-priority: 2
+lesson: morePractice
+priority: 6
 next: basics/rock-paper-scissors
 ---
 

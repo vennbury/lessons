@@ -2,7 +2,7 @@
 title: "Modules and Packages"
 unit: "basics"
 lesson: "modulesAndPackages"
-priority: 4
+priority: 8
 next: regex/regular-expressions
 ---
 
