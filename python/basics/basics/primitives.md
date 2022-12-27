@@ -52,6 +52,7 @@ All of the following videos are from the [Corey Schafer's](https://www.youtube.c
 
 - [Strings](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2)
 - [F-strings](https://www.youtube.com/watch?v=nghuHvKLhJA&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=35)
+- (Optional)[PEP 8](https://pep8.org/). This is the official style guide for Python code. It contains all of the official python conventions. For now, try to stick to it as much as possible because it makes your code more readable. Keep in mind, however, that with time you'll learn to recognize situations when this guide doesn't really apply.
   <br><br>
 
 ### Numbers
