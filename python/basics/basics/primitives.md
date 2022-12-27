@@ -8,6 +8,16 @@ next: basics/lists-tuples-and-sets
 
 # Python Basics
 
+## Learning outcomes
+
+- Able to run Python Shell in CLI and VS Code
+- Describe what variables are and how to use them
+- Explain strings and how to declare them
+- Learn to use f-strings
+- Learn about string slicing
+- Describe different number types that Python supports
+- Be able to name some common Python operators
+
 ## How to Run Python Programs
 
 There are two ways you will write Python code in this course: via Python shell (initially and for simple tasks) and via VS Code (most of the time). In this section, we'll explain how to use both ways.
@@ -29,7 +39,7 @@ There are two ways you will write Python code in this course: via Python shell (
 
 ### Variables
 
-- [Variables and operators](https://automatetheboringstuff.com/2e/chapter1/). A couple of important notes before you read this book chapter. First of all, the author uses Python shell along with an IDE called Mu. You already know how to use the shell as well as how to run scripts in VS Code, so we're going to stick to that.
+- [Variables and operators](https://automatetheboringstuff.com/2e/chapter1/). A couple of important notes before you read this book chapter. The author uses Python shell along with an IDE called Mu. You already know how to use the shell as well as how to run scripts in VS Code, so we're going to stick to that.
   <br><br>
 
 ### A Quick Note on the Next Set of Videos
@@ -48,7 +58,19 @@ All of the following videos are from the [Corey Schafer's](https://www.youtube.c
 - [Integers and floats](https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3)
   <br><br>
 
+## Knowledge check
+
+- What is a variable name convention in Python?
+- What is string concatenation and how does it work in Python?
+- What does the `replace()` function do? How about `find()`? `count()`?
+- What are two ways of inserting values into an f-string?
+- How to check the type of an object?
+- What function provides documentation for functions, classed, and even modules?
+- Can you explain the difference between `/` and `//`?
+- What are shorthand assignment operators?
+
 ## Additional Resources
 
 - [How to run Python code in VSC](https://www.dev2qa.com/how-to-run-python-code-in-visual-studio-code/#:~:text=Select%20Installed%20Python%20Interpreter%20In%20Visual%20Studio%20Code.,installed%20path%20%29%20installed%20on%20your%20OS.%20) on how to run Python code.
 - [w3schools on operators](https://www.w3schools.com/python/python_operators.asp)
+  <br><br>
