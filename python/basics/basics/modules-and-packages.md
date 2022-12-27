@@ -8,6 +8,15 @@ next: regex/regular-expressions
 
 # Modules and Packages
 
+## Learning outcomes
+
+- Learn how to import modules
+- Describe how Python find the module you want to import
+- Be able to change environment variables
+- Be able to make your code run as a module
+- Learn the reason behind creating virtual environments and how to do that using Python
+  <br><br>
+
 ## Modules
 
 - [Import Modules and Exploring The Standard Library](https://www.youtube.com/watch?v=CqvZ3vGoGs0)
@@ -27,3 +36,12 @@ Now that you know about code modulation, go back to the [Rock, Paper, and Scisso
 1. Separate all of the functions in different files.
 2. Then import the functions into `main.py` and use `__name__="__main__"` for the main script. Your code should not have any global variables.
 3. Run it and see whether there are any differences in functionality. (There shouldn't be any, but your code is much cleaner and now you follow one of the best coding practices.)
+   <br><br>
+
+## Knowledge check
+
+- How to import modules? How to import specific functions?
+- How to change your environment variables?
+- Describe what `__name__="__main__` does
+- Describe how to create a virtual environment using pip
+  <br><br>
