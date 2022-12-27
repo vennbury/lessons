@@ -17,6 +17,7 @@ next: basics/lists-tuples-and-sets
 - Learn about string slicing
 - Describe different number types that Python supports
 - Be able to name some common Python operators
+  <br><br>
 
 ## How to Run Python Programs
 
@@ -68,6 +69,7 @@ All of the following videos are from the [Corey Schafer's](https://www.youtube.c
 - What function provides documentation for functions, classed, and even modules?
 - Can you explain the difference between `/` and `//`?
 - What are shorthand assignment operators?
+  <br><br>
 
 ## Additional Resources
 
