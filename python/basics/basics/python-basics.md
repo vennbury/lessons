@@ -16,7 +16,7 @@ There are two ways you will write Python code in this course: via Python shell (
 ### Using Python Shell
 
 - <b>Way #1:</b> Open your CLI and type `py` or `python` (or, sometimes, `python3`). If you followed the [Installations](https://vennbury.com/lessons/python/basics/prerequisites/installations) lesson, you should see ">>>" prompt. Type `print('Hello, world!')` and see the output below. To exit the shell, simply type `exit()`.
-- <b>Way #2:</b> Open any .py file in your VS Code (try doing it via CLI; create a file if you don't have any) and press ```Ctlr + Shift + \````. You should see a terminal open on the bottom of your IDE. Follow the steps from Way #1 to open up the Python shell and exit it.
+- <b>Way #2:</b> Open any .py file in your VS Code (try doing it via CLI; create a file if you don't have any) and press `` Ctlr + Shift + ` ``. You should see a terminal open on the bottom of your IDE. Follow the steps from Way #1 to open up the Python shell and exit it.
   <br>
 
 ### Using VS Code
