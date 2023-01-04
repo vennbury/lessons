@@ -3,7 +3,7 @@ title: "Exercise: Practicing Workflow"
 priority: "4"
 unit: "prerequisites"
 lesson: "workflowExercise"
-next: "basics/python-basics"
+next: "basics/primitives"
 ---
 
 # Practicing Your Workflow

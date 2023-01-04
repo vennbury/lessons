@@ -3,7 +3,7 @@ title: "Regex"
 unit: "regex"
 lesson: "regularExpressions"
 priority: 1
-next: regex/regular-expressions-exercises
+next: regex/regular-expression-exercises
 ---
 
 # Regular Expressions
