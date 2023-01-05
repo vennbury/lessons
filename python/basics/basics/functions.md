@@ -1,8 +1,7 @@
 ---
 title: Functions
-unit: basics
-lesson: functions
 priority: 5
+prev: basics/dictionaries
 next: basics/more-practice
 ---
 

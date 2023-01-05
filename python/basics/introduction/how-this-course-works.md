@@ -1,9 +1,8 @@
 ---
-title: "How this course works"
-priority: "1"
-unit: "introduction"
-lesson: "howThisCourseWorks"
-next: "introduction/intro-to-programming"
+title: How this course works
+priority: 1
+prev: none
+next: introduction/intro-to-programming
 ---
 
 # How this course works

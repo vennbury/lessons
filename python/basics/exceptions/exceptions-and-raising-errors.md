@@ -1,8 +1,7 @@
 ---
-title: "Exceptions"
-unit: "exceptions"
-lesson: "exceptionsAndRaisingErrors"
+title: Exceptions
 priority: 1
+prev: OOP/tic-tac-toe
 next: exceptions/logging-and-debugging
 ---
 

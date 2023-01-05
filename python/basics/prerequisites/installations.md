@@ -1,9 +1,8 @@
 ---
-title: "Installations"
-priority: "1"
-unit: "prerequisites"
-lesson: "installations"
-next: "prerequisites/command-line-basics"
+title: Installations
+priority: 1
+prev: introduction/intro-to-programming
+next: prerequisites/command-line-basics
 ---
 
 # Installations

@@ -1,9 +1,8 @@
 ---
-title: "Learn Git"
-priority: "3"
-unit: "prerequisites"
-lesson: "learnGit"
-next: "prerequisites/workflow-exercise"
+title: Learn Git
+priority: 3
+prev: prerequisites/command-line-basics
+next: prerequisites/workflow-exercise
 ---
 
 # Git Basics

@@ -1,8 +1,7 @@
 ---
-title: "Regex"
-unit: "regex"
-lesson: "regularExpressions"
+title: Regex
 priority: 1
+prev: basics/modules-and-packages
 next: regex/regular-expression-exercises
 ---
 

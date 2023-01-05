@@ -1,9 +1,8 @@
 ---
-title: "Working with the OS"
-unit: "fileSystem"
-lesson: "workingWithOS"
-priority: "2"
-next: "OOP/object--oriented-programming"
+title: Working with the OS
+priority: 2
+prev: file-system/working-with-files
+next: OOP/object--oriented-programming
 ---
 
 # Working with the Operating System

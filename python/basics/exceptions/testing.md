@@ -1,8 +1,7 @@
 ---
-title: "Testing"
-unit: "exceptions"
-lesson: "testing"
+title: Testing
 priority: 3
+prev: exceptions/logging-and-debugging
 next: web-scraping/introduction-to-web-scraping
 ---
 

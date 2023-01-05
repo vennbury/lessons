@@ -1,8 +1,7 @@
 ---
-title: "Modules and Packages"
-unit: "basics"
-lesson: "modulesAndPackages"
+title: Modules and Packages
 priority: 8
+prev: basics/rock-paper-scissors
 next: regex/regular-expressions
 ---
 

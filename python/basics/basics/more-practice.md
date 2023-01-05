@@ -1,8 +1,7 @@
 ---
 title: More Practice!
-unit: basics
-lesson: morePractice
 priority: 6
+prev: basics/functions
 next: basics/rock-paper-scissors
 ---
 

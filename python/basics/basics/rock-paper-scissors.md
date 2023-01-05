@@ -1,10 +1,9 @@
 ---
 title: "Rock, Paper, Scissors!"
-unit: "basics"
-lesson: "project1RockPaperScissors"
 priority: 7
-project: true
+prev: basics/more-practice
 next: basics/modules-and-packages
+project: true
 ---
 
 # Rock, Paper, Scissors!

@@ -1,8 +1,7 @@
 ---
 title: Dictionaries
-unit: basics
-lesson: dictionaries
 priority: 4
+prev: basics/program-flow
 next: basics/functions
 ---
 

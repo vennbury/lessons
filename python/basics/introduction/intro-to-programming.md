@@ -1,9 +1,8 @@
 ---
-title: "Intro to programming"
-priority: "2"
-unit: "introduction"
-lesson: "introToProgramming"
-next: "prerequisites/installations"
+title: Intro to programming
+priority: 2
+prev: introduction/how-this-course-works
+next: prerequisites/installations
 ---
 
 # Introduction to programming
@@ -31,5 +30,5 @@ next: "prerequisites/installations"
 
 ## Join the community
 
-- Our [Discord](https://discord.gg/Qbh7AdGUrn)
+- Our [Discord](https://discord.gg/VCyyTsemyA)
 - [Telegram](https://t.me/+Cz6cF8j5jjJjNzAy)

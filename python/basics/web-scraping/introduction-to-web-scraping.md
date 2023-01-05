@@ -1,9 +1,8 @@
 ---
 title: "Intro to Web Scraping"
-unit: "webScraping"
-lesson: "introductionToWebScraping"
-priority: "1"
-next: "none"
+priority: 1
+prev: exceptions/testing
+next: none
 ---
 
 # Introduction to Web Scraping

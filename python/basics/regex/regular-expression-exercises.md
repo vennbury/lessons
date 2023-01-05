@@ -1,9 +1,8 @@
 ---
-title: "Regex Exercises"
-unit: "regex"
-lesson: "regularExpressionsExercises"
+title: Regex Exercises
 priority: 2
-next: "file-system/working-with-files"
+prev: regex/regular-expressions
+next: file-system/working-with-files
 ---
 
 # Regex Exercises

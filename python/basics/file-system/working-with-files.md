@@ -1,9 +1,8 @@
 ---
-title: "Working with Files"
-unit: "fileSystem"
-lesson: "workingWithFiles"
-priority: "1"
-next: "file-system/working-with-OS"
+title: Working with Files
+priority: 1
+prev: regex/regular-expression-exercises
+next: file-system/working-with-OS
 ---
 
 # Working with Files

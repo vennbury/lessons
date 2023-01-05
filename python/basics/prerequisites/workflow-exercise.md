@@ -1,9 +1,8 @@
 ---
-title: "Exercise: Practicing Workflow"
-priority: "4"
-unit: "prerequisites"
-lesson: "workflowExercise"
-next: "basics/primitives"
+title: Workflow
+priority: 4
+prev: prerequisites/learn-git
+next: basics/primitives
 ---
 
 # Practicing Your Workflow
