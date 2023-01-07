@@ -35,3 +35,4 @@ After you install Python for VS Code, you will need to select Python interpreter
 
 - If you are not using windows, follow all the steps in [Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git).
 - If you are on windows, first [install Git for Windows](https://www.simplilearn.com/tutorials/git-tutorial/git-installation-on-windows), and then continue to [step two of Setting up Git](https://www.theodinproject.com/lessons/foundations-setting-up-git#step-2-configure-git-and-github).
+  <br><br>
