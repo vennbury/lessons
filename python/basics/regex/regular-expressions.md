@@ -17,6 +17,8 @@ next: regex/regular-expressions-exercises
 - Be able to implement complex regex patterns
   <br><br>
 
+## Theory
+
 - [Pattern Matching with Regex.](https://automatetheboringstuff.com/2e/chapter7/) Make sure to follow the author's code and don't skip the exercises at the end: the chapter is long, so you really need to complete those tasks to solidify your theory.
 - [Regular Expressions.](https://diveintopython3.net/regular-expressions.html) This chapter heavily overlaps with the previous one, but offers a more hands-on approach. If not for the knowledge, go through it for the practice exercise.
   <br><br>
