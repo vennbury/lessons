@@ -20,10 +20,10 @@ This exercise is a foundation of your workflow for the whole course. You will pr
 - <b>Step 5:</b> Type in `git clone` and paste the copied SSH key from <b>Step 2.</b> (Usually, `Ctrl + V` doesn't work in CLIs. Try `Ctrl + Shift + V`. Alternatively, you can manually type the SSH key).
 - <b>Step 6:</b> Use the `ls` command (or your OS's alternative) to see whether the folder was added. Then, navigate into it.
 - <b>Step 7:</b> Create a file named `first.py` and open it with `code .`. (Technically, you open the folder, not the file, but it doesn't matter for our purposes).
-- <b>Step 8:</b> Write `print('Hello, world!')` in that file.
-- <b>Step 9:</b> Now you need to add the file to the staging area, commit it, and push it to the repository. You have two ways of doing it: via CLI or via VS Code. We <b>highly</b> recommend using the second way at least until the end of the Basics course, because you need to practice with the CLI. However, we will show you both: Step 10 pertains to the CLI, while step 11 pertains to VS Code.
+- <b>Step 8:</b> Type `print('Hello, world!')` in that file.
+- <b>Step 9:</b> Now you need to add the file to the staging area, commit it, and push it to the repository. You have two ways of doing it: via CLI or via VS Code. We <b>highly</b> recommend using the first way at least until the end of the Basics course, because you need to practice using the CLI. However, we will show you both: Step 10 pertains to the CLI, while step 11 pertains to VS Code.
 - <b>Step 10.1:</b> In your CLI, type `git status`. It will show you the changes made to your file.
-- <b>Step 10.2:</b> Type `git add .`. This command adds all of the files into a staging area. Type `git status` again and check that the file were, in fact, added there.
+- <b>Step 10.2:</b> Type `git add -A`. This command adds all of the changed files into a staging area. Type `git status` again and check that the file was, in fact, added there.
 - <b>Step 10.3:</b> Type `git commit -m "First commit"`. This command makes a commit to the repository. The commits, however, stay on your local machine until you push them into the remote (Github) repository. (Type `git status` to see that the files are not in the staging area anymore).
 - <b>Step 10.4:</b> Type `git push origin main` to push the changes into GitHub.
 - <b>Step 10.5:</b> Go to the GitHub repository you created for this exercise and refresh the page. You should see the changes reflected here.
