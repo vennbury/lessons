@@ -1,8 +1,6 @@
 ---
 title: Exceptions
-priority: 1
-prev: OOP/tic-tac-toe
-next: exceptions/logging-and-debugging
+priority: 22
 ---
 
 # Exceptions and Raising Errors

@@ -1,8 +1,6 @@
 ---
 title: Lists, Tuples, and Sets
-priority: 2
-prev: basics/primitives
-next: basics/program-flow
+priority: 8
 ---
 
 # Lists, Tuples, and Sets

@@ -1,8 +1,6 @@
 ---
 title: Logging and Debugging
-priority: 2
-prev: exceptions/exceptions-and-raising-errors
-next: exceptions/testing
+priority: 23
 ---
 
 # Logging and Debugging

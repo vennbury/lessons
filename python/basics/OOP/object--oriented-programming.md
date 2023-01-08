@@ -1,8 +1,6 @@
 ---
 title: OOP
-priority: 1
-prev: file-system/working-with-OS
-next: OOP/tic-tac-toe
+priority: 20
 ---
 
 # Object-Oriented Programming

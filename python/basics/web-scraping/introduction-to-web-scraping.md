@@ -1,8 +1,6 @@
 ---
 title: "Intro to Web Scraping"
-priority: 1
-prev: exceptions/testing
-next: none
+priority: 25
 ---
 
 # Introduction to Web Scraping

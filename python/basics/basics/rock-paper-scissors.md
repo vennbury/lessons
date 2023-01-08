@@ -1,8 +1,6 @@
 ---
 title: "Rock, Paper, Scissors!"
-priority: 7
-prev: basics/more-practice
-next: basics/modules-and-packages
+priority: 13
 project: true
 ---
 

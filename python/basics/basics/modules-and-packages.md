@@ -1,8 +1,6 @@
 ---
 title: Modules and Packages
-priority: 8
-prev: basics/rock-paper-scissors
-next: regex/regular-expressions
+priority: 14
 ---
 
 # Modules and Packages

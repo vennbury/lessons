@@ -1,8 +1,6 @@
 ---
 title: Regex Exercises
-priority: 2
-prev: regex/regular-expressions
-next: file-system/working-with-files
+priority: 16
 ---
 
 # Regex Exercises

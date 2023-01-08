@@ -1,8 +1,6 @@
 ---
 title: Python Primitives
-priority: 1
-prev: prerequisites/workflow-exercise
-next: basics/lists-tuples-and-sets
+priority: 7
 ---
 
 # Python Basics

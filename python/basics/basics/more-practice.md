@@ -1,8 +1,6 @@
 ---
 title: More Practice!
-priority: 6
-prev: basics/functions
-next: basics/rock-paper-scissors
+priority: 12
 ---
 
 # Python Basics Exercises
