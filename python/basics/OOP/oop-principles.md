@@ -1,5 +1,5 @@
 ---
-title: "OOP principles"
+title: OOP principles
 priority: 24
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Property Decorators"
+title: Property Decorators
 priority: 23
 ---
 

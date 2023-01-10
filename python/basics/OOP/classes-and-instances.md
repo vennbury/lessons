@@ -1,5 +1,5 @@
 ---
-title: "Python Classes"
+title: Python Classes
 priority: 20
 ---
 
