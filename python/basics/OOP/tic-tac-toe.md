@@ -1,6 +1,6 @@
 ---
 title: "Tic Tac Toe"
-priority: 21
+priority: 25
 project: true
 ---
 
