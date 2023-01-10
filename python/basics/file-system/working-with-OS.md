@@ -2,7 +2,7 @@
 title: Working with the Operating System
 priority: 2
 prev: file-system/working-with-files
-next: OOP/object--oriented-programming
+next: OOP/classes-and-instances
 ---
 
 # Working with the Operating System
