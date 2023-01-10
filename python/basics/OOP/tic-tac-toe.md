@@ -1,5 +1,5 @@
 ---
-title: "Tic Tac Toe"
+title: Tic Tac Toe
 priority: 25
 project: true
 ---

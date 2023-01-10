@@ -1,5 +1,5 @@
 ---
-title: "Dunder Methods"
+title: Dunder Methods
 priority: 22
 ---
 

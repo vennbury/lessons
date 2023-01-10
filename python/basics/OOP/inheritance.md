@@ -1,5 +1,5 @@
 ---
-title: "Inheritance"
+title: Inheritance
 priority: 21
 ---
 
