@@ -1,8 +1,6 @@
 ---
 title: Learn Git
-priority: 3
-prev: prerequisites/command-line-basics
-next: prerequisites/workflow-exercise
+priority: 5
 ---
 
 # Git Basics

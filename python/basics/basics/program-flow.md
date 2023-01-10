@@ -1,8 +1,6 @@
 ---
 title: Program Flow
-priority: 3
-prev: basics/lists-tuples-and-sets
-next: basics/dictionaries
+priority: 9
 ---
 
 # Program Flow

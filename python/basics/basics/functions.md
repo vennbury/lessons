@@ -1,8 +1,6 @@
 ---
 title: Functions
-priority: 5
-prev: basics/dictionaries
-next: basics/more-practice
+priority: 11
 ---
 
 # Functions

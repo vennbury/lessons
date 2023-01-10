@@ -1,8 +1,6 @@
 ---
 title: Regex
-priority: 1
-prev: basics/modules-and-packages
-next: regex/regular-expression-exercises
+priority: 15
 ---
 
 # Regular Expressions

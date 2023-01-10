@@ -1,8 +1,6 @@
 ---
 title: "Python Classes"
-priority: 1
-next: OOP/inheritance
-prev: file-system/working-with-OS
+priority: 20
 ---
 
 # Intro to OOP in Python

@@ -1,8 +1,6 @@
 ---
 title: "Property Decorators"
-priority: 4
-next: OOP/oop-principles
-prev: OOP/dunder-methods
+priority: 23
 ---
 
 # Property Decorators

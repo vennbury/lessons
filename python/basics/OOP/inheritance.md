@@ -1,8 +1,6 @@
 ---
 title: "Inheritance"
-priority: 2
-next: OOP/dunder-methods
-prev: OOP/classes-and-instances
+priority: 21
 ---
 
 # Inheritance

@@ -1,8 +1,6 @@
 ---
 title: "OOP principles"
-priority: 5
-next: OOP/tic-tac-toe
-prev: OOP/property-decorators
+priority: 24
 ---
 
 # Inheritance

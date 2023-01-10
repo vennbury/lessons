@@ -1,8 +1,6 @@
 ---
 title: Working with the Operating System
-priority: 2
-prev: file-system/working-with-files
-next: OOP/classes-and-instances
+priority: 19
 ---
 
 # Working with the Operating System

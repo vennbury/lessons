@@ -1,8 +1,6 @@
 ---
 title: Intro to programming
 priority: 2
-prev: introduction/how-this-course-works
-next: prerequisites/installations
 ---
 
 # Introduction to programming

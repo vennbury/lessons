@@ -1,8 +1,6 @@
 ---
 title: Dictionaries
-priority: 4
-prev: basics/program-flow
-next: basics/functions
+priority: 10
 ---
 
 # Dictionaries

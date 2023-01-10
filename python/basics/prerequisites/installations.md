@@ -1,8 +1,6 @@
 ---
 title: Installations
-priority: 1
-prev: introduction/intro-to-programming
-next: prerequisites/command-line-basics
+priority: 3
 ---
 
 # Installations

@@ -1,8 +1,6 @@
 ---
 title: "Tic Tac Toe"
-priority: 6
-prev: OOP/oop-principles
-next: exceptions/exceptions-and-raising-errors
+priority: 25
 project: true
 ---
 

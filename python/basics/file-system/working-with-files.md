@@ -1,8 +1,6 @@
 ---
 title: Working with Files
-priority: 1
-prev: regex/regular-expression-exercises
-next: file-system/working-with-OS
+priority: 17
 ---
 
 # Working with Files

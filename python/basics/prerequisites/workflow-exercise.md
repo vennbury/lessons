@@ -1,8 +1,6 @@
 ---
 title: Workflow
-priority: 4
-prev: prerequisites/learn-git
-next: basics/primitives
+priority: 6
 ---
 
 # Practicing Your Workflow

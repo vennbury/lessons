@@ -1,8 +1,6 @@
 ---
 title: Testing
-priority: 3
-prev: exceptions/logging-and-debugging
-next: web-scraping/introduction-to-web-scraping
+priority: 28
 ---
 
 # Testing in Python

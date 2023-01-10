@@ -1,8 +1,6 @@
 ---
 title: Command Line Basics
-priority: 2
-prev: prerequisites/installations
-next: prerequisites/learn-git
+priority: 4
 ---
 
 # Command Line Basics

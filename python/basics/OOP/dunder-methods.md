@@ -1,8 +1,6 @@
 ---
 title: "Dunder Methods"
-priority: 3
-next: OOP/property-decorators
-prev: OOP/inheritance
+priority: 22
 ---
 
 # Magic Methods
