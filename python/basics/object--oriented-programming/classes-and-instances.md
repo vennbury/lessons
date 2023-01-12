@@ -1,6 +1,6 @@
 ---
 title: Python Classes
-priority: 20
+priority: 21
 ---
 
 # Intro to OOP in Python

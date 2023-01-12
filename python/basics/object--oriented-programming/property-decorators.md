@@ -1,6 +1,6 @@
 ---
 title: Property Decorators
-priority: 23
+priority: 24
 ---
 
 # Property Decorators

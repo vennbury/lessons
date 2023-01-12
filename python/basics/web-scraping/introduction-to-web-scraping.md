@@ -1,6 +1,6 @@
 ---
 title: "Intro to Web Scraping"
-priority: 29
+priority: 30
 ---
 
 # Introduction to Web Scraping

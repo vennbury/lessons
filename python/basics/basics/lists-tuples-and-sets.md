@@ -1,6 +1,6 @@
 ---
 title: Lists, Tuples, and Sets
-priority: 8
+priority: 9
 ---
 
 # Lists, Tuples, and Sets

@@ -1,6 +1,6 @@
 ---
 title: Workflow
-priority: 6
+priority: 7
 ---
 
 # Practicing Your Workflow

@@ -1,6 +1,6 @@
 ---
 title: Installations
-priority: 3
+priority: 4
 ---
 
 # Installations

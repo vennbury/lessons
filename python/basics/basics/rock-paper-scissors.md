@@ -1,6 +1,6 @@
 ---
 title: "Rock, Paper, Scissors!"
-priority: 13
+priority: 14
 project: true
 ---
 

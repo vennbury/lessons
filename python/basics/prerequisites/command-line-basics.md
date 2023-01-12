@@ -1,6 +1,6 @@
 ---
 title: Command Line Basics
-priority: 4
+priority: 5
 ---
 
 # Command Line Basics

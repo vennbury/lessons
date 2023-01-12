@@ -1,6 +1,6 @@
 ---
 title: Dunder Methods
-priority: 22
+priority: 23
 ---
 
 # Magic Methods

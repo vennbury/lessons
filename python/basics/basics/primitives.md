@@ -1,6 +1,6 @@
 ---
 title: Python Primitives
-priority: 7
+priority: 8
 ---
 
 # Python Basics

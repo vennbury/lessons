@@ -1,6 +1,6 @@
 ---
 title: Cat Command in Python
-priority: 18
+priority: 19
 project: true
 ---
 

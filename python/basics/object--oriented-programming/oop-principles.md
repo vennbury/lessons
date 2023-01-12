@@ -1,6 +1,6 @@
 ---
 title: OOP principles
-priority: 24
+priority: 25
 ---
 
 # Inheritance

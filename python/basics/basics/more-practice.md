@@ -1,6 +1,6 @@
 ---
 title: More Practice!
-priority: 12
+priority: 13
 ---
 
 # Python Basics Exercises

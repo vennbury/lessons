@@ -1,6 +1,6 @@
 ---
 title: Learn Git
-priority: 5
+priority: 6
 ---
 
 # Git Basics
