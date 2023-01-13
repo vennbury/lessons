@@ -1,50 +1,40 @@
-## Set up
+# How to Contribute
 
-1. `npm install`
+## Step 1: Fork this repository
 
-2. ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
+Fork this repository by clicking on the `fork` button located on the top of this page. This will create a copy of this repository in your account.
 
-3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Step 2 Clone the repository:
 
-## Routing
+Find the lessons repository you just forked on your personal github. On the top right, click the green `<> Code` button and coppy the link. Now open a terminal
+on your local machine, navigate to the directory you would like this repository to be located in and type:
 
-vennbury.com/ <br />
-................../courses <br />
-................../......./[course name] <br />
-................../......./............/[module name] <br />
-................../......./............/............./[lesson name] <br />
-................../personal (cabinet) <br />
-................../[other services] <br />
-................../[404 if nothing matches] <br />
+```
+git clone [copied URL]
+```
 
-## UI
+## Step 3: Create a branch
 
-We use [Chakra-UI](https://chakra-ui.com) component library.
+On your local computer, navigate to the lessons repository directory. Now create a new branch with the following command:
 
-## lib
+```
+git switch -c [branch_name]
+```
 
-Polished libraries and functionalities (DB integration, models, controllers, etc.)
+## Step 4: Make your changes
 
-## utils
+Navigate to the lesson(s) you want to change in the lessons folder. The folders follow the same structure that the website follows, except that the folder is named lessons and not courses.
 
-Various cross-concern bits and pieces
+## Step 5: Push your changes
 
-## components
+After making your changes, you will push your changes to github. To do so, in your local terminal type the following:
 
-React components that our website comprises.
+```
+git add .
+git commit -m "[your_message]"
+git push -u origin [branch_name]
+```
 
-### layouts
+## Step 6: Making a pull request
 
-Main.js is the layout for the whole website (navbar, footer, etc.). Page.js is a layout for page transition animation.
-
-## .env.local
-
-Necessary production constants. Contact @furilon or @nikitamalinovsky for more information.
-
-## public
-
-Static files (pictures, fonts, etc.)
+On Github, locate the lessons repository you cloned and just pushed to. Click on the `Compare & pull request`, fill out the necessary information, and click `create pull request` to submit your changes.
