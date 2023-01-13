@@ -1,6 +1,6 @@
 ---
 title: Dictionaries
-priority: 11
+priority: 10
 ---
 
 # Dictionaries
