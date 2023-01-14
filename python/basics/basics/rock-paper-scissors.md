@@ -1,7 +1,7 @@
 ---
 title: "Rock, Paper, Scissors!"
 priority: 14
-project: true
+project: project
 ---
 
 # Rock, Paper, Scissors!

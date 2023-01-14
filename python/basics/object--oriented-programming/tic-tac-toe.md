@@ -1,7 +1,7 @@
 ---
 title: Tic Tac Toe
 priority: 26
-project: true
+project: project
 ---
 
 # Tic Tac Toe Project

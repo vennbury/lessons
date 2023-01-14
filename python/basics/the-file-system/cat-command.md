@@ -1,7 +1,7 @@
 ---
 title: Cat Command in Python
 priority: 19
-project: true
+project: project
 ---
 
 ## The Project

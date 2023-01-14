@@ -1,6 +1,7 @@
 ---
 title: Workflow
 priority: 7
+project: exercise
 ---
 
 # Practicing Your Workflow

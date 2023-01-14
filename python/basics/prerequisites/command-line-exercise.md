@@ -1,17 +1,20 @@
 ---
 title: Command Line Basics
 priority: 5
+project: exercise
 ---
 
 # Command Line Basics
 
 On any given operating system, the shell is the name of the program that runs in your command line. The default shell for linux is `bash`, for macOS `zsh`, and for windows there's the `PowerShell`, which extends the capabilities introduced by its first shell, the `Command shell`. Learn how to navigate your system by following the steps for your specific operating system below.
-<br><br>
+
+<br>
 
 ## Linux and macOs
 
 Since zsh is built on top of bash, many of the commands between Linux and macOs are similar. Learn how to navigate the command line with [Linux and macOs](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/). Checkout this [cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html) to review the commands.
-<br><br>
+
+<br>
 
 ## Windows
 
