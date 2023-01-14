@@ -4,7 +4,7 @@
 
 Fork this repository by clicking on the `fork` button located on the top of this page. This will create a copy of this repository in your account.
 
-## Step 2 Clone the repository:
+## Step 2: Clone the repository
 
 Find the lessons repository you just forked on your personal github. On the top right, click the green `<> Code` button and coppy the link. Now open a terminal
 on your local machine, navigate to the directory you would like this repository to be located in and type:

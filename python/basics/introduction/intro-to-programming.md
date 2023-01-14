@@ -5,29 +5,29 @@ priority: 3
 
 # Introduction to programming
 
-## What is programming
+## What is programming?
 
-- [What is programming](https://www.codecademy.com/article/what-is-programming?periods=year&utm_source=pepperjam&utm_medium=affiliate&utm_term=159404&clickId=4139029489&pj_creativeid=8-12462&pj_publisherid=159404) by Codecademy.
-
-- [Introduction to programming](https://www.youtube.com/watch?v=FCMxA3m_Imc&ab_channel=KhanAcademyComputing) by Khan Academy.
-- [hackr.io article](https://hackr.io/blog/what-is-programming)
-  <br><br>
-
-## Why Python
-
-- [What is Python](https://www.pythonforbeginners.com/learn-python/what-is-python)
-- [4 reasons you should learn Python as your first language](https://www.nextacademy.com/blog/learn-python-first/#:~:text=4%20Reasons%20why%20you%20should%20learn%20Python%20as,libraries%20and%20frameworks%20Programming%20frameworks%20%26%20libraries%20)
-- [Why learn Python first](https://pythonprinciples.com/blog/why-python-first/)
+Programming is the process of writing computer programs. Programs are all around us, from running the operating system and applications on your phone and computer, to running your car engine, traffic lights, and internet.
+Programs can be thought of as a sequence of steps to acheive an end result. To write a program, you will need a programming language. Over the years, there have been many different programming languages introduced with the goal of enhancing communication between humans and computers. Coding, a term that is interchangeably used with programming, is the action of writing code that a machine can understand.
 
 <br>
 
-## Join the community
+## Why Python?
 
-- Our [Discord](https://discord.gg/VCyyTsemyA)
-- [Telegram](https://t.me/+Cz6cF8j5jjJjNzAy)
+Python is a very popular language upon beginner programmers. This is because it's syntax is easy to work with and the way you code is very similar to the english language.
+
+### Advantages of python
+
+### Facts about python
+
+- Python is a robust language that has a large community of users and many libraries that let's you do a lot more with less code. It plays an important role in data science, machine learning, and web development.
+- Python is described as a general-purpose programming language, which means that it can be used to build software in a wide variety of domains.
+- Python is a higher level language, which means that it is human oriented, where the code
+  is very similar to the human language. In contrast, languages like machine language and assembly, are considered to be lower level as they are machine oriented, where each command has a smaller isolated impact.
+- Python is an interpreted language, which means that the code doesn't have to be compiled before running it. Most programs have to compile (convert a program into machine language) before it can be run.
 
 <br>
 
-## Additional Resources
+<br>
 
-- [Why learning is so goddamn hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) by Eric Trautman.
+<br>

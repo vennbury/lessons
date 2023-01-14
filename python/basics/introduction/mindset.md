@@ -30,7 +30,7 @@ Take a look at this graph of the Dunning-Kruger Effect:
 
 ## Flow State
 
-Lastly, we will take a look at the [flow state](<https://en.wikipedia.org/wiki/Flow_(psychology)>). You may have heard of flow or being "in the zone", which is a mental state where you feel energy, focus, and joy. Being able to get yourself into this mental state will help you both have fun and learn more.
+You may have heard of the [flow state](<https://en.wikipedia.org/wiki/Flow_(psychology)>), also called being "in the zone", which is a mental state where you feel energy, focus, and joy. Being able to get yourself into this mental state will help you both have fun and learn more.
 
 <br>
 
@@ -39,3 +39,12 @@ Taking a look at the flow state graph below, we define two axis, the horizontal 
 <br>
 
 ![flow-state](/lessons/python/basics/introduction/flow-state.png)
+
+<br>
+
+## Getting stuck
+
+It is highly likely that you will find yourself stuck at some point in this course, whether that is on a project or learning a new concept. When you feel stuck, it is critical for you to not get discouraged.
+
+- If you're just having a small problem understanding something, feel free to search on google or ask for help on our [discord](https://discord.gg/VCyyTsemyA) or our [telegram](https://t.me/+Cz6cF8j5jjJjNzAy) chats.
+- At other times, you may have been overworking yourself and need to take a break. If catch yourself doing this quite often, you should try using the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique), where you perform focused work for about 25 minutes (which you are welcome to tweak) and then take short breaks after each session.
