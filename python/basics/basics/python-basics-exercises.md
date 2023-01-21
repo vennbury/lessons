@@ -1,6 +1,7 @@
 ---
-title: More Practice!
+title: Python Basics Exercises
 priority: 13
+project: exercise
 ---
 
 # Python Basics Exercises
