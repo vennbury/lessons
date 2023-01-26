@@ -38,5 +38,9 @@ Watch these two videos:
 1. Loop through a range of 10 numbers and print the even ones.
 2. Create a list of 5 values of different types (doesn't matter which types you're going to use as long as they're not repeating too much). Loop through it and print each value as an item in a numbered list. For example, the first value in your list with the index `0` should be displayed as `1. {value}`; the second value with index `1` as `2. {value}`, and so on.
 3. Solve the FizzBuzz problem. (Here's a [LeetCode](https://leetcode.com/problems/fizz-buzz/) link if you need instructions.)
+4. [Print Characters from a String at Each Even Index](https://replit.com/@Vennbury/EvenIndices#main.py)
+5. [Merge Two Lists](https://replit.com/@Vennbury/MergeTwoLists#main.py)
+6. [Reverse the Strings for Each Item in the Array](https://replit.com/@Vennbury/ReverseStringsInArray#main.py)
+7. [Check if Input is a Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 <br>
