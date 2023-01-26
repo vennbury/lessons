@@ -1,9 +1,6 @@
 ---
-title: "Intro to Web Scraping"
-unit: "webScraping"
-lesson: "introductionToWebScraping"
+title: "Introduction to Web Scraping"
 priority: "1"
-next: "none"
 ---
 
 # Introduction to Web Scraping
