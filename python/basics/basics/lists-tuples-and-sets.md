@@ -31,7 +31,22 @@ Watch these two videos:
 - (Advanced) How to loop through a list?
 - What are some of the ways to sort a list?
 - How to create empty tuples?
-- What's the difference between a list, a tuple, and a set?c
+- What's the difference between a list, a tuple, and a set?
+
+<br>
+
+## Exercises
+
+### Lists
+
+1. Create a list of 5 fruits.
+2. Create another array of 3 elements that is a subarray of the first variable. Use negative indexing.
+3. Add the second variable to the end of the first variable and store it as another variable.
+4. Now do the same operation but add the second variable after the first element of the first variable.
+5. Loop through the list and print each item on a new line.
+6. Sort the list alphabetically.
+
+<br>
 
 ## Additional Resources
 
