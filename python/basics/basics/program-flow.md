@@ -32,3 +32,11 @@ Watch these two videos:
 - What does the `range()` function do and what are its arguments?
 - What are two main ways to interrupt the current cycle of a loop and what's the difference between them?
   <br><br>
+
+## Exercises
+
+1. Loop through a range of 10 numbers and print the even ones.
+2. Create a list of 5 values of different types (doesn't matter which types you're going to use as long as they're not repeating too much). Loop through it and print each value as an item in a numbered list. For example, the first value in your list with the index `0` should be displayed as `1. {value}`; the second value with index `1` as `2. {value}`, and so on.
+3. Solve the FizzBuzz problem. (Here's a [LeetCode](https://leetcode.com/problems/fizz-buzz/) link if you need instructions.)
+
+<br>
