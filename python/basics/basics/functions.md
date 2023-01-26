@@ -27,7 +27,7 @@ Watch these two videos on functions:
 ## Knowledge check
 
 - What is the `def` keyword used for?
-- What keyword lets you provide a value from as a result of a function call?
+- What keyword lets you give back the result of a function?
 - How to specify default parameters?
 - How to deal with the unknown number of function parameters?
 - What is the LEGB rule?
