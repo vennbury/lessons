@@ -1,9 +1,6 @@
 ---
 title: Python Primitives
-unit: basics
-lesson: primitives
-priority: 1
-next: basics/lists-tuples-and-sets
+priority: 8
 ---
 
 # Python Basics
@@ -22,13 +19,13 @@ next: basics/lists-tuples-and-sets
 ## How to Run Python Programs
 
 There are two ways you will write Python code in this course: via Python shell (initially and for simple tasks) and via VS Code (most of the time). In this section, we'll explain how to use both ways.
-<br>
+<br><br>
 
 ### Using Python Shell
 
 - <b>Way #1:</b> Open your CLI and type `py` or `python` (or, sometimes, `python3`). If you followed the [Installations](https://vennbury.com/lessons/python/basics/prerequisites/installations) lesson, you should see ">>>" prompt. Type `print('Hello, world!')` and see the output below. To exit the shell, simply type `exit()`.
 - <b>Way #2:</b> Open any .py file in your VS Code (try doing it via CLI; create a file if you don't have any) and press ```Ctlr + Shift + \````. You should see a terminal open on the bottom of your IDE. Follow the steps from Way #1 to open up the Python shell and exit it.
-  <br>
+  <br><br>
 
 ### Using VS Code
 
@@ -37,10 +34,11 @@ There are two ways you will write Python code in this course: via Python shell (
   <br><br>
 
 ## Python Primitives
+<br>
 
 ### Variables
 
-- [Variables and operators](https://automatetheboringstuff.com/2e/chapter1/). A couple of important notes before you read this book chapter. The author uses Python shell along with an IDE called Mu. You already know how to use the shell as well as how to run scripts in VS Code, so we're going to stick to that.
+- [Variables and operators](https://automatetheboringstuff.com/2e/chapter1/). A couple of important notes before you read this book chapter. The author uses Python shell along with an IDE called Mu. You already know how to use the shell as well as how to run scripts in VS Code, so we're going to stick to that. <b>Important:</b> code along with the author and complete all exercises at the end of the chapter.
   <br><br>
 
 ### A Quick Note on the Next Set of Videos
@@ -52,7 +50,7 @@ All of the following videos are from the [Corey Schafer's](https://www.youtube.c
 
 - [Strings](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2)
 - [F-strings](https://www.youtube.com/watch?v=nghuHvKLhJA&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=35)
-- (Optional)[PEP 8](https://pep8.org/). This is the official style guide for Python code. It contains all of the official python conventions. For now, try to stick to it as much as possible because it makes your code more readable. Keep in mind, however, that with time you'll learn to recognize situations when this guide doesn't really apply.
+- (Optional) [PEP 8](https://pep8.org/). This is the official style guide for Python code. It contains all of the official python conventions. For now, try to stick to it as much as possible because it makes your code more readable. Keep in mind, however, that with time you'll learn to recognize situations when this guide doesn't really apply.
   <br><br>
 
 ### Numbers
@@ -71,6 +69,7 @@ All of the following videos are from the [Corey Schafer's](https://www.youtube.c
 - Can you explain the difference between `/` and `//`?
 - What are shorthand assignment operators?
   <br><br>
+
 
 ## Additional Resources
 
