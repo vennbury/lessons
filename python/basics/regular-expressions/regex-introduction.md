@@ -1,9 +1,6 @@
 ---
-title: "Regex"
-unit: "regex"
-lesson: "regularExpressions"
-priority: 1
-next: regex/regular-expressions-exercises
+title: Regex
+priority: 16
 ---
 
 # Regular Expressions

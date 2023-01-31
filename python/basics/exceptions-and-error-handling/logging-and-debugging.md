@@ -1,9 +1,6 @@
 ---
-title: "Logging and Debugging"
-unit: "exceptions"
-lesson: "loggingAndDebugging"
-priority: "2"
-next: "exceptions/testing"
+title: Logging and Debugging
+priority: 28
 ---
 
 # Logging and Debugging

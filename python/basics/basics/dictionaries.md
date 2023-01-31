@@ -1,9 +1,6 @@
 ---
 title: Dictionaries
-unit: basics
-lesson: dictionaries
-priority: 4
-next: basics/functions
+priority: 10
 ---
 
 # Dictionaries
@@ -31,3 +28,47 @@ Watch this video:
 - How to get dictionary keys, values, and pairs of keys and values?
 - What is the syntax for a loop that goes through each item in a dictionary?
   <br><br>
+
+
+## Exercises
+
+Here's a dictionary:
+
+```python
+  info = {
+    "name": "Fyodor Dostoevsky",
+    "dob": "11/11/1821",
+    "dead": True,
+    "died": "28/01/1881",
+    "popular_books": ["Notes from Underground", "Crime and Punishment", "The Idiot", "Demons", "The Brothers Karamazov"],
+    "children": [
+      {
+        "name": "Alexey Dostoevsky",
+        "dob": 1875,
+        "died": 1878,
+      },
+      {
+        "name": "Lyubov Dostoevskaya",
+        "dob": 1869,
+        "died": 1926,
+      },
+      {
+        "name": "Sonya Dostoevskaya",
+        "dob": 1868,
+        "died": 1868,
+      },
+      {
+        "name": "Fyodor Dostoevsky",
+        "dob": 1871,
+        "died": 1922,
+      },
+    ], 
+  }
+```
+
+1. Print out the `name` field using the square bracket notation.
+2. Print the `died` field using the `.get()` method.
+3. Remove the `dead` field.
+4. Loop through the dictionary and print out 3 things separately: a list of the dictionary's keys, values, and items.
+
+<br>

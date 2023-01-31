@@ -1,9 +1,6 @@
 ---
 title: Lists, Tuples, and Sets
-unit: basics
-lesson: listsTuplesAndSets
-priority: 2
-next: basics/program-flow
+priority: 9
 ---
 
 # Lists, Tuples, and Sets
@@ -34,7 +31,37 @@ Watch these two videos:
 - (Advanced) How to loop through a list?
 - What are some of the ways to sort a list?
 - How to create empty tuples?
-- What's the difference between a list, a tuple, and a set?c
+- What's the difference between a list, a tuple, and a set?
+
+<br>
+
+## Exercises
+
+### Lists
+
+1. Create a list of 5 fruits.
+2. Create another list of 3 elements that is a sublist of the first variable. Use negative indexing.
+3. Add the second variable to the end of the first variable and store it as another variable.
+4. Now do the same operation but add the second variable after the first element of the first variable.
+5. Loop through the list and print each item on a new line.
+6. Sort the list alphabetically.
+
+<br>
+
+### Tuples
+
+1. Create a tuple with three values: an integer, a string, and a Boolean.
+2. Deconstruct that tuple into three variables.
+
+<br>
+
+### Sets
+
+1. Create a set from the list made in the Lists part of this exercise.
+2. Create a set that contains 3 of the same fruits as the set in (1), and 2 different ones (or just 2 random strings).
+3. Perform and print the results of three operations: intersection, difference, and union.
+
+<br>
 
 ## Additional Resources
 

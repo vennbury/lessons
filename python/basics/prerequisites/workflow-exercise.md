@@ -1,9 +1,7 @@
 ---
-title: "Exercise: Practicing Workflow"
-priority: "4"
-unit: "prerequisites"
-lesson: "workflowExercise"
-next: "basics/python-basics"
+title: Workflow
+priority: 7
+project: exercise
 ---
 
 # Practicing Your Workflow

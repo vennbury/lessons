@@ -1,9 +1,6 @@
 ---
-title: "Installations"
-priority: "1"
-unit: "prerequisites"
-lesson: "installations"
-next: "prerequisites/command-line-basics"
+title: Installations
+priority: 4
 ---
 
 # Installations

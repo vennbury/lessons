@@ -1,35 +1,52 @@
 ---
-title: "Intro to programming"
-priority: "2"
-unit: "introduction"
-lesson: "introToProgramming"
-next: "prerequisites/installations"
+title: Intro to Programming
+priority: 3
 ---
 
 # Introduction to programming
 
-## Mindset
+## What is programming?
 
-- [Growth Mindest](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) by Carol Dweck
-- [Why learning is so goddamn hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) by Eric Trautman,
-  <br><br>
+Programming is all around us, from running the operating system and applications on your phone and computer, to running your car engine, traffic lights, and internet.
+Technically speaking, programming is the process of creating instructions for computer programs. Programs can be thought of as a sequence of steps to acheive an end result.
+To write a program, otherwise known as coding, you will need to use a programming language.
 
-## What is programming
+<br>
 
-- [What is programming](https://www.codecademy.com/article/what-is-programming?periods=year&utm_source=pepperjam&utm_medium=affiliate&utm_term=159404&clickId=4139029489&pj_creativeid=8-12462&pj_publisherid=159404) by Codecademy
+## Why Python?
 
-- [Introduction to programming](https://www.youtube.com/watch?v=FCMxA3m_Imc&ab_channel=KhanAcademyComputing) by Khan Academy
-- [hackr.io article](https://hackr.io/blog/what-is-programming)
-  <br><br>
+Python is a very popular language for beginner programmers. We will be using it because:
 
-## Why Python
+- The syntax is easy to work with.
+- It is very versatile.
+- Includes many libraries.
+- Has a large community of users.
 
-- [What is Python](https://www.pythonforbeginners.com/learn-python/what-is-python)
-- [4 reasons you should learn Python as your first language](https://www.nextacademy.com/blog/learn-python-first/#:~:text=4%20Reasons%20why%20you%20should%20learn%20Python%20as,libraries%20and%20frameworks%20Programming%20frameworks%20%26%20libraries%20)
-- [Why learn Python first](https://pythonprinciples.com/blog/why-python-first/)
-  <br><br>
+<br>
 
-## Join the community
+## Differences in Programming Languages
 
-- Our [Discord](https://discord.gg/Qbh7AdGUrn)
-- [Telegram](https://t.me/+Cz6cF8j5jjJjNzAy)
+Ever since programming was developed, there have been many different programming languages introduced with the goal of enhancing the communication between humans and computers.
+Programming languages have different purposes which makes it important for you to understand when and why to use a certain language.
+
+<br>
+
+### General-purpose vs Domain-specific Languages
+
+Python is what's know as a general-purpose language, as it can be broadly applicable to many different areas such as web development, data science, computer applications, and more.
+On the other hand, domain specific languages like HTML is designed to display documents to a web browser.
+
+<br>
+
+### High Level vs Low Level Languages
+
+Higher level languages like Python are more human-friendly in that the code is easiler to understand due to its similarities to the human language. However, low level languages,
+like machine language and assembly are machine oriented, where a human will have a difficult time understanding how to use it.
+
+<br>
+
+### Interpreted vs Compiled Languages
+
+Many programming languages like C and C++ require the use a compiler, which converts a program into machine language, before it can be run. As a result, these programs tend to be faster and
+have more control over hardware parts. Other programming languages like Python and Javascript are interpreted, as when you run your program, each line is processed one by one in real time. As
+a result, interpreted languages are more flexible and aren't platform dependent as opposed to compiled languages.

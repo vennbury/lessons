@@ -1,9 +1,6 @@
 ---
 title: Functions
-unit: basics
-lesson: functions
-priority: 5
-next: basics/more-practice
+priority: 12
 ---
 
 # Functions
@@ -30,12 +27,21 @@ Watch these two videos on functions:
 ## Knowledge check
 
 - What is the `def` keyword used for?
-- What keyword lets you provide a value from as a result of a function call?
+- What keyword lets you give back the result of a function?
 - How to specify default parameters?
 - How to deal with the unknown number of function parameters?
 - What is the LEGB rule?
 - What two keywords help you change the score of a variable?
   <br><br>
+
+## Exercises
+
+1. Define a function that prints a string that you pass in it as a parameter, and call it 5 times using a loop.
+2. Create a function `calculator` that takes three arguments: 2 numbers and a string. The string's value can be one of the 4 values: `add`, `substract`, `multiply`, or `divide`. Return a result of an operation that corresponds to the string. (Use Python's `switch` statement, about which you can read more [here](https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/)). Don't forget to put a `default` case that displays a meaningful message.
+3. Make a function that prints out some message. Define the second function that takes a function as a parameter. Call the second function and pass first function as a parameter.
+4. Solve a Fibonacci Number problem. Here's the [problem](https://leetcode.com/problems/fibonacci-number/) formulation on LeetCode.
+
+<br>
 
 ## Additional Resources
 

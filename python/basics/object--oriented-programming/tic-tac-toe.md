@@ -1,10 +1,7 @@
 ---
-title: "Tic Tac Toe"
-unit: "OOP"
-lesson: "project3TicTacToe"
-priority: 2
-project: true
-next: exceptions/exceptions-and-raising-errors
+title: Tic Tac Toe
+priority: 26
+project: project
 ---
 
 # Tic Tac Toe Project

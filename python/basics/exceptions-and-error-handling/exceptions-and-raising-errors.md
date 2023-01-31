@@ -1,9 +1,6 @@
 ---
-title: "Exceptions"
-unit: "exceptions"
-lesson: "exceptionsAndRaisingErrors"
-priority: 1
-next: exceptions/logging-and-debugging
+title: Exceptions
+priority: 27
 ---
 
 # Exceptions and Raising Errors

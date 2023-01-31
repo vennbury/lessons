@@ -1,9 +1,6 @@
 ---
-title: "Testing"
-unit: "exceptions"
-lesson: "testing"
-priority: 3
-next: web-scraping/introduction-to-web-scraping
+title: Testing
+priority: 29
 ---
 
 # Testing in Python
