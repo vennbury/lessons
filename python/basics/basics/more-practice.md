@@ -1,6 +1,6 @@
 ---
 title: Python Basics Exercises
-priority: 13
+priority: 16
 project: exercise
 ---
 
