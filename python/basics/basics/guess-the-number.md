@@ -6,6 +6,8 @@ project: project
 
 This is your first project - a guessing game. In it, we will learn about Python's `random` module, process user's input, and practice the program flow.
 
+<br>
+
 ## Instructions
 
 1. Create a GitHub repo and clone it to your local machine using CLI. If you don't know how to do that, go back to the [workflow](https://vennbury.com/lessons/python/basics/prerequisites/workflow-exercise) lesson.
