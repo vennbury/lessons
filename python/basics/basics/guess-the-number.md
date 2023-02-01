@@ -14,8 +14,9 @@ This is your first project - a guessing game. In it, we will learn about Python'
 4. Import `random` module and use its `randint()` function (find documentation for this function online) to randomly generate a number from 1 to 100. Store that value as a variable.
    (Incidentally, it would be a great idea to check out the whole module just to start familiarizing yourself with the standard library. In particular, check out the `shuffle()`, `choice()`, `seed()`, and `uniform()` functions. [This](https://pymotw.com/3/) and [this](https://docs.python.org/3/library/) are good standard library documentations.)
 5. Ask user for a number between 1 and 100, convert the result to an integer (using `int()` function) and store it as a variable.
-6. Compare the user's choice and the computer's random number and display the result.
-7. Right now, if the user doesn't get the number right from the first try, the game will stop. Let's fix that. Depending on the number of attempts you will give your user, use the appropriate loop and put user input and comparison logic inside that loop.
+6. Don't forget to commit your code as often as possible. Atomic commits are a very good practice, and will make you a better developer. At this stage in your developer career, you'll not see the point. However, when you will come back to this project in months, or when a recruiter will go through your code and commits, you will be grateful to yourself for doing it. Again, if you don't remember how to do that, go back to the [workflow](https://vennbury.com/lessons/python/basics/prerequisites/workflow-exercise) lesson.
+7. Compare the user's choice and the computer's random number and display the result.
+8. Right now, if the user doesn't get the number right from the first try, the game will stop. Let's fix that. Depending on the number of attempts you will give your user, use the appropriate loop and put user input and comparison logic inside that loop.
 
 <br>
 
