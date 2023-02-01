@@ -1,6 +1,6 @@
 ---
 title: Tic Tac Toe
-priority: 26
+priority: 29
 project: project
 ---
 

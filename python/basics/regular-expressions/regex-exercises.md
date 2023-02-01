@@ -1,6 +1,6 @@
 ---
 title: Regex Exercises
-priority: 17
+priority: 20
 ---
 
 # Regex Exercises

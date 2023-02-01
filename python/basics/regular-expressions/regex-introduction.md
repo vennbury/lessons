@@ -1,6 +1,6 @@
 ---
 title: Regex
-priority: 16
+priority: 19
 ---
 
 # Regular Expressions
