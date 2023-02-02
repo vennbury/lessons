@@ -1,6 +1,6 @@
 ---
 title: Functions
-priority: 15
+priority: 14
 ---
 
 # Functions
