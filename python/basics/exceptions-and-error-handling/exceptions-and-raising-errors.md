@@ -1,6 +1,6 @@
 ---
 title: Exceptions
-priority: 35
+priority: 34
 ---
 
 # Exceptions and Raising Errors

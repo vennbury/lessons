@@ -1,6 +1,6 @@
 ---
 title: Working with the Operating System
-priority: 24
+priority: 23
 ---
 
 # Working with the Operating System

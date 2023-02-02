@@ -1,6 +1,6 @@
 ---
 title: Inheritance
-priority: 28
+priority: 27
 ---
 
 # Inheritance

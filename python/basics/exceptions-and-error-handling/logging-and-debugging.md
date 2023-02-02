@@ -1,6 +1,6 @@
 ---
 title: Logging and Debugging
-priority: 36
+priority: 35
 ---
 
 # Logging and Debugging

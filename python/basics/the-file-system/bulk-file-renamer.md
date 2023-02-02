@@ -1,5 +1,5 @@
 ---
 title: Bulk File-renamer
-priority: 25
+priority: 24
 project: project
 ---
