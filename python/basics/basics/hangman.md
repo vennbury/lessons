@@ -22,6 +22,6 @@ In this project, we'll create a CLI version of Hangman game. If you don't know w
 
 ## Conclusion
 
-You can move on to the next project if you implemented all of the technical specifications above. Keep up the good work! We're moving on to our next project: the countdown timer.
+You can move on to the next project if you implemented all of the technical specifications above. Keep up the good work! We're moving on to learn about functions.
 
 <br>

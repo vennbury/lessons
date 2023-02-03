@@ -1,5 +1,5 @@
 ---
 title: Snake Game
-priority: 31
+priority: 30
 project: project
 ---

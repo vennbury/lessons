@@ -1,6 +1,6 @@
 ---
 title: Testing
-priority: 37
+priority: 36
 ---
 
 # Testing in Python
