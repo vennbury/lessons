@@ -50,7 +50,7 @@ While learning the basic components of python, we would like you to follow along
 
 If we enter a number into our shell, we get that number returned (printed to our shell). We can also enter an expression, such as simple mathematical equations, which will get evaluated and returned.
 
-```.
+```bash
 >>> 12
 12
 >>> 12*12
@@ -79,7 +79,7 @@ There are more than just mathematical operators that can be used in python, whic
 
 ### Data Types
 
-We have been dealing with numbers and math so far, which isn't all that programming is. Python has several data types, which is a given category for a value. The common data types we have are:
+We have been dealing with only numbers and math so far, but there is much more to programming. As we have learned, Python is an object-oriented language, so it uses classes to define it's data types. Here is a list of Python's primitive data types.
 
 - Integers (whole numbers like 12, 144, and 24 in the above example which can also be negative)
 - Floating-point numbers (which are decimals like 12.5, 0.0, and -0.9231)
@@ -96,7 +96,7 @@ In Python, you can use either double quotes("") or single quotes('') for strings
 
 Not all data types can be used in expressions with other data types. For example, adding integers or decimals with strings results in a `TypeError`, meaning you are mixing up your data types.
 
-```.
+```bash
 >>> 'hello' + 5
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
@@ -105,7 +105,7 @@ TypeError: can only concatenate str (not "int") to str
 
 We have two solutions to this problem, we can either place quotations around our integer or use a built-in python converter called `str()` to change the number to a string.
 
-```.
+```bash
 >>> 'hello' + '5'
 'hello5'
 >>> 'hello' + str(5)
@@ -116,7 +116,7 @@ We have two solutions to this problem, we can either place quotations around our
 
 Although we can only add strings with strings, we can, however, multiply strings with integers (but not floating-point numbers or other strings).
 
-```.
+```bash
 >>> 'hello' * 3
 'hellohellohello'
 ```
@@ -127,7 +127,7 @@ Although we can only add strings with strings, we can, however, multiply strings
 
 We may sometimes have very large strings or we may want to save a result of an operation. This is where variables can help us. Variables store information you assign to it in memory so that you can access it when you want to. Assignment statements are how we store variables. Simply write your desired variable name, use the equal sign, and then place the value to be stored.
 
-```.
+```bash
 >>> x = 1
 >>> y = 5.5
 >>> x + y
@@ -136,7 +136,7 @@ We may sometimes have very large strings or we may want to save a result of an o
 
 We say that a variable is initialized the first time it is declared (and given a value to store). After initializing a variable, we can use it in our code. We can overwrite a variable by giving it a different value, which gets rid of the old value.
 
-```.
+```bash
 >>> x = 1
 >>> x
 1
@@ -158,7 +158,15 @@ Variables in Python are case-sensitive, which means the same variables capitaliz
 
 ## Conventions and Basic Functions
 
-Now, since we'll be moving on to a little more advanced topics, close your python shell and open up VS Code. Create a file called `main.py`. To run this file, type `python main.py` in your terminal.
+Now, since we'll be moving on to a little more advanced topics, close your python shell and open up VS Code. Create a file called `main.py`. To run this file, type `python main.py` in your terminal. Let's convert some of our shell code into runnable python code by doing the following.
+
+```py
+x = 1
+y = 5.5
+print(x + y)
+```
+
+If we run this file, we will receive the same output that we got in the shell. The `print(x + y` line evaluates the expression `x + y` and prints it in your terminal. Here, the `print` portion of the line is known as a print function written as `print()`. It receives some value or expression and it prints it to the screen, similar to how the `str()` receives an integer and returns a string.
 
 <br>
 
@@ -166,24 +174,284 @@ Now, since we'll be moving on to a little more advanced topics, close your pytho
 
 In programming languages, commenting is a useful way to document or write notes about your code. Python uses the `#` symbol at the beginning of a line to make comments. Lines that are commented on are ignored by python.
 
-```
+```py
 # This is a comment
 ```
 
-Blank spaces, also known as whitespaces, in python are ignored. Indentation, which is the whitespace before your code on each line does matter as it defines a block of code (which we will go over later).
+Python doesn't have specific support for multi-line comments, but you can write a comment in python if there are three quotes on either side with `'''` or `"""`.
+
+```py
+'''
+This is a
+multi
+line
+comment
+'''
+```
+
+Blank spaces, also known as whitespaces, in Python are ignored. Indentation, which is the whitespace before your code on each line does matter as it defines a block of code (which we will go over later).
 
 <br>
 
+### Advanced Strings
 
-### Basic Functions
+As we just learned, we can comment out pieces of code with multi-line strings that aren't assigned to any variable. This also means we can assign a multiline string to a variable.
 
-- print()
-- input()
-- len()
-- dir()
-- str()
-- int()
-- float()
+```py
+multiLineString = '''This is a multi-line
+string'''
+print(multiLineString)
+
+'''
+Output:
+This is a multi-line
+string
+'''
+```
+
+<br>
+
+#### Indexing and Slicing
+
+With strings, we can access a character by indexing. The first character in a string is at index 0, and each subsequent character is at a whole number higher.
+
+```py
+example = 'Hello World'
+print(example[0])
+print(example[1])
+print(example[10])
+'''
+Ouput:
+H
+e
+d
+'''
+```
+
+If we try to access an index that is too high, we will get an IndexError.
+
+```py
+example = 'Hello World'
+print(example[20])
+'''
+Output:
+Traceback (most recent call last):
+  File "/Users/your_name/python/main.py", line 4, in <module>
+    print(example[20])
+IndexError: string index out of range
+'''
+```
+
+<br>
+
+We can also access a range of characters by using slicing `[start:end-1]` where start and end are the starting index and ending index respectively.
+
+```py
+example = 'Hello World'
+print(example[6:11])
+'''
+Output:
+World
+'''
+```
+
+Do you remember that the index 10 was the last letter of the `example` string, but here we used 11 as the ending index? This is because when slicing, Python goes up to but does not include the ending index you provide.
+
+<br>
+
+You can also use slicing to get the part of a string without specifying an ending index.
+
+```py
+example = 'Hello World'
+print(example[6:])
+'''
+Output:
+World
+'''
+```
+
+The same can be said about getting the first part of a string.
+
+```py
+example = 'Hello World'
+print(example[:5])
+'''
+Output:
+World
+'''
+```
+
+We can also use negative indexing and negative slicing to get elements at the end. The last element starts at -1.
+
+```py
+example = 'Hello World'
+print(example[-1])
+print(example[-10])
+print(example[-5:-1])
+print(example[-5:])
+'''
+Output:
+d
+e
+Worl
+World
+'''
+```
+
+<br>
+
+#### Common String Functions
+
+There are many functions that we can use on strings. The string data type is a type of object (which we will learn about later on) and objects contain functions that are called methods.
+
+To find the length of our string, we can use the `len(str)` function which stands for length.
+
+```py
+example = 'Hello World'
+print(len(example))
+'''
+Output:
+11
+'''
+```
+
+To make our string all lowercase or all uppercase, we can use the `str.lower()` and `str.upper()` methods.
+
+```py
+example = 'Hello World'
+print(example.lower())
+print(example.upper())
+'''
+Output:
+hello world
+HELLO WORLD
+'''
+```
+
+We can use the `str.count(str)` method to count the number of occurrences of a string in a string.
+
+```py
+example = 'Hello World'
+print(example.count('o'))
+print(example.count("Hello"))
+print(example.count("Hi"))
+'''
+Output:
+2
+1
+0
+'''
+```
+
+We can use the `str.find(str)` method to find the index of the first occurrence of a match.
+
+```py
+example = 'Hello World'
+print(example.find('o'))
+print(example.find("World"))
+print(example.find("Hi")) # returns -1 as there is no occurrence
+'''
+Output:
+4
+6
+-1
+'''
+```
+
+We can replace a string with another string by using the `str.replace(str)` method.
+
+```py
+example = 'Hello World'
+print(example.replace("Hello", "world"))
+print(example.replace("hello", "world"))
+'''
+Output:
+world World
+Hello World # Doesn't change the string as no occurrence is found
+'''
+```
+
+To list the methods and attributes (variables of an object) you can use on an object, you can call the `dir(object)` command. If you want to list the descriptions of all methods and attributes that you can use on an object, use the `help(object)` function. If you would like to look up the description of a specific method or attribute, use the `help(object.method)` or `help(object.attribute)` syntax. Try the following commands in your terminal to gain familiarity with the documentation.
+
+- `dir(str)`, `dir(int)`, and `dir(float)`.
+- `help(str)`, `help(int)`, and `help(float)`. Press `enter` to scroll down and `Ctrl + C` to exit.
+- `help(str.replace)` and `help(str.lower)`.
+
+<br>
+
+#### Formatting Strings
+
+Just as we learned with the shell earlier in this lesson, we can add two strings together. This also means that if we have two variables that are strings, we can add them.
+
+```py
+firstName = 'John'
+lastName = 'Doe'
+print(firstName + lastName)
+'''
+Output:
+JohnDoe
+'''
+```
+
+We can also add a space between the first and last names.
+
+```py
+print(firstName + ' ' + lastName)
+'''
+Output
+John Doe
+'''
+```
+
+In Python, we sometimes may add a lot of strings together and it can get hard to keep track of them. For this reason, we have formatted strings. The way formatted strings work is that they have placeholders that are curly braces `{}` and you call the `str.format(variables)` function.
+
+```py
+print('{} {}'.format(firstName, lastName))
+'''
+Output
+John Doe
+'''
+```
+
+As you can see, the first name gets assigned to the first placeholder and the last name gets assigned to the second. An easier way to use formatted strings is by using an f at the front of the string and using the variable names in the placeholder.
+
+```py
+print(f'{firstName} {lastName}')
+'''
+Output
+John Doe
+'''
+```
+
+We can also perform method operations on the string variables inside of the placeholder.
+
+```py
+print(f'{firstName.upper()} {lastName.upper()}')
+'''
+Output
+JOHN DOE
+'''
+```
+
+<br>
+
+### Casting
+
+We have already learned that we can convert an int or float data type to a string using the `str()` function. This operation is called casting. We can also cast data types to integers and floating-point numbers using the `int()` and `float()` function respectively.
+
+```py
+# Integer Casting
+print(int(6.5))  # rounds down to 6
+print(int(5))    # 5
+print(int("5"))  # 5
+print(int("Hi")) # ValueError
+
+# Float Casting
+print(float(6.5))  # 6.5
+print(float(5))    # 5.0
+print(float("5"))  # 5.0
+print(float("Hi")) # ValueError
+```
 
 <br>
 

@@ -52,7 +52,7 @@ Firstly, we will have to open up a terminal.
 
 You can find the directory you are in by typing in `pwd` command and it will return your current path, which will look something similar to this:
 
-```.
+```bash
 pwd
 /Users/your_name
 ```
@@ -61,14 +61,14 @@ pwd
 
 To see what files and folders are available in your current directory, use the `ls` (list) command.
 
-```.
+```bash
 ls
 Desktop Documents Downloads foo.tar hello.txt Library Movies Music Pictures Public
 ```
 
 You can move upwards into a directory by using the `cd` command with the directory name of your choice.
 
-```.
+```bash
 cd Downloads
 pwd
 /Users/your_name/Downloads
@@ -78,7 +78,7 @@ foo.png resume.html song.mp3
 
 You can also move back a directory with `cd ..` or use an absolute path as illustrated below.
 
-```.
+```bash
 cd ..
 pwd
 /Users/your_name
@@ -97,14 +97,14 @@ pwd
 
 You can print the contents of a file in your CLI by using the `cat <file_name>` command. (We will have a project where you will replicate this command).
 
-```.
+```bash
 cat hello.txt
 Hello World
 ```
 
 To create a new file, use the `touch <file_name>` command, and if you want to create a directory, use the `mkdir <directory_name>` command. You can also specify multiple files in your command as illustrated below.
 
-```.
+```bash
 mkdir Taxes
 touch Taxes/hello.txt poem.txt
 ls
@@ -116,7 +116,7 @@ hello.txt
 
 To delete files and directories, use the `rm <file_name>` and `rmdir <file_name>` commands respectfully. If a directory has files in it, you will need to add the `-r` (recursive) flag to the command. You can also remove multiple files in one command similar to the `touch` command.
 
-```.
+```bash
 rmdir -r Taxes
 ls
 Desktop Documents Downloads foo.tar hello.txt Library Movies Music Pictures poem.txt Public
