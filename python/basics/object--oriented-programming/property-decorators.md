@@ -8,7 +8,7 @@ priority: 31
 ## Learning Outcomes
 
 - How to convert methods into properties
-- Eplain why and when it's useful
+- Explain why and when it's useful
   <br><br>
 
 ## Theory

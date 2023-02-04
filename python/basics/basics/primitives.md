@@ -174,6 +174,7 @@ Blank spaces, also known as whitespaces, in python are ignored. Indentation, whi
 
 <br>
 
+
 ### Basic Functions
 
 - print()

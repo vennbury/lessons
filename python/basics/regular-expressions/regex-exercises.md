@@ -4,7 +4,7 @@ priority: 20
 project: exercise
 ---
 
-This lesson contains a number of regex exercises. Each link leads to REPLIT - an online IDE. Complete these exercises to solidify your knowledge of regular expressions.
+This lesson contains several regex exercises. Each link leads to REPLIT - an online IDE. Complete these exercises to solidify your knowledge of regular expressions.
 
 <br>
 

@@ -84,4 +84,4 @@ python cat.py -n -s hello.py
 
 ### Things to think about
 
-To create this program, we will gather user input (a cat command) and decide what to output (or input again) based on the flags set. The implementation details are up to you to decide, but it is important to think about how you will capture each file and find which flag the command corresponds to. Remember that **multiple files** can be defined without the flag, after the flag(s), and also in-between the `cat` keyword and the flag(s).
+To create this program, we will gather user input (a cat command) and decide what to output (or input again) based on the flags set. The implementation details are up to you to decide, but it is important to think about how you will capture each file and find which flag the command corresponds to. Remember that **multiple files** can be defined without the flag, after the flag(s), and also in between the `cat`` keyword and the flag(s).

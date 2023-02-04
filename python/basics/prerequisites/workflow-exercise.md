@@ -6,7 +6,7 @@ project: exercise
 
 # Practicing Your Workflow
 
-This exercise is a foundation of your workflow for the whole course. You will practice creating GitHub repositories, cloning them on your computer, creating files with the Command Line Interface (CLI), adding to the staging area, committing, and pushing all of the changes to GitHub.
+This exercise is the foundation of your workflow for the whole course. You will practice creating GitHub repositories, cloning them on your computer, creating files with the Command Line Interface (CLI), adding to the staging area, committing, and pushing all of the changes to GitHub.
 <br><br>
 
 ## Exercise
@@ -19,9 +19,9 @@ This exercise is a foundation of your workflow for the whole course. You will pr
 - <b>Step 6:</b> Use the `ls` command (or your OS's alternative) to see whether the folder was added. Then, navigate into it.
 - <b>Step 7:</b> Create a file named `first.py` and open it with `code .`. (Technically, you open the folder, not the file, but it doesn't matter for our purposes).
 - <b>Step 8:</b> Write `print('Hello, world!')` in that file.
-- <b>Step 9:</b> Now you need to add the file to the staging area, commit it, and push it to the repository. You have two ways of doing it: via CLI or via VS Code. We <b>highly</b> recommend using the second way at least until the end of the Basics course, because you need to practice with the CLI. However, we will show you both: Step 10 pertains to the CLI, while step 11 pertains to VS Code.
+- <b>Step 9:</b> Now you need to add the file to the staging area, commit it, and push it to the repository. You have two ways of doing it: via CLI or VS Code. We <b>highly</b> recommend using the second way at least until the end of the Basics course, because you need to practice with the CLI. However, we will show you both: Step 10 pertains to the CLI, while step 11 pertains to VS Code.
 - <b>Step 10.1:</b> In your CLI, type `git status`. It will show you the changes made to your file.
-- <b>Step 10.2:</b> Type `git add .`. This command adds all of the files into a staging area. Type `git status` again and check that the file were, in fact, added there.
+- <b>Step 10.2:</b> Type `git add .`. This command adds all of the files into a staging area. Type `git status` again and check that the file was added.
 - <b>Step 10.3:</b> Type `git commit -m "First commit"`. This command makes a commit to the repository. The commits, however, stay on your local machine until you push them into the remote (Github) repository. (Type `git status` to see that the files are not in the staging area anymore).
 - <b>Step 10.4:</b> Type `git push origin main` to push the changes into GitHub.
 - <b>Step 10.5:</b> Go to the GitHub repository you created for this exercise and refresh the page. You should see the changes reflected here.
@@ -33,4 +33,4 @@ This exercise is a foundation of your workflow for the whole course. You will pr
 
 ## Conclusion
 
-Remember to follow this workflow for each exercise and project that requires you to set up your own repository.
+Remember to follow this workflow for each exercise and project that requires you to set up your repository.

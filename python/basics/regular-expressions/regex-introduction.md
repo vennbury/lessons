@@ -16,11 +16,11 @@ priority: 19
 
 ## Theory
 
-- [Pattern Matching with Regex.](https://automatetheboringstuff.com/2e/chapter7/) Make sure to follow the author's code and don't skip the exercises at the end: the chapter is long, so you really need to complete those tasks to solidify your theory.
+- [Pattern Matching with Regex.](https://automatetheboringstuff.com/2e/chapter7/) Make sure to follow the author's code and don't skip the exercises at the end: the chapter is long, so you need to complete those tasks to solidify your theory.
 - [Regular Expressions.](https://diveintopython3.net/regular-expressions.html) This chapter heavily overlaps with the previous one, but offers a more hands-on approach. If not for the knowledge, go through it for the practice exercise.
   <br><br>
 
-## Knowledge check
+## Knowledge Check
 
 - What characters match the beginning and end of a string?
 - How can you match a character within a specific range of times?

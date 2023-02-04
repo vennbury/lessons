@@ -10,7 +10,7 @@ priority: 27
 - How to create subclasses
 - Learn about the method resolution order
 - What `super()` function is and how to use it
-- Explain the usefullness of `isinstance()` and `issubclass()` fucntions
+- Explain the usefulness of `isinstance()` and `issubclass()` functions
   <br><br>
 
 ## Theory
@@ -24,5 +24,5 @@ Watch this video on class inheritance:
 
 - What is the syntax for creating subclasses?
 - How do subclasses inherit properties and methods?
-- What is the efficient way to to create a subclass that uses properties from the parent class?
+- What is an efficient way to create a subclass that uses properties from the parent class?
   <br><br>

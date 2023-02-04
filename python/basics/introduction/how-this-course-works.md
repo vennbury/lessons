@@ -7,9 +7,9 @@ priority: 1
 
 Vennbury University is a mastery-based and project-focused learning platform. Our goal is to provide the best resources for you to master a particular topic. More information can be found on Vennbury Universities’ [about page](https://vennbury.com/).<br><br>
 
-By the end of this course, not only will you get a new tool under your belt, but also be able to use it on your own. The distinguishing feature of Vennbury University is that it doesn’t hold your hand at any point throughout - you will be provided guidance and help, but learning and problem solving will be your and only your job.<br><br>
+By the end of this course, not only will you get a new tool under your belt, but also be able to use it on your own. The distinguishing feature of Vennbury University is that it doesn’t hold your hand at any point throughout - you will be provided guidance and help, but learning and problem-solving will be your and only your job.<br><br>
 
-We will start by getting familiar with the programming world and what doors of knowledge Python opens for you. Afterwards, we’ll configure your development environment. We’ll learn how to use Git and GitHub. Then, we’ll learn the basics of Python: variables, data types, conditions, loops, and functions. We’ll dive deeper into data types and learn about advanced use of functions.<br><br>
+We will start by getting familiar with the programming world and what doors of knowledge Python opens for you. Afterward, we’ll configure your development environment. We’ll learn how to use Git and GitHub. Then, we’ll learn the basics of Python: variables, data types, conditions, loops, and functions. We’ll dive deeper into data types and learn about the advanced use of functions.<br><br>
 
 After that, we’ll increase the level of abstraction and talk about different programming paradigms - Objective-Oriented Programming (OOP) and functional programming - and how they are realized in Python.<br><br>
 

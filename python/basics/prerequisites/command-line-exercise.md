@@ -6,7 +6,7 @@ project: exercise
 
 ## Learning Outcomes
 
-- The difference shell and CLI
+- The difference between a shell and a CLI
 - Opening your terminal
 - Basic commands
 - Create and remove files
@@ -21,20 +21,20 @@ Your command line is a user interface provided by your operating system where yo
 
 ### Shells
 
-The shell is a command-line interpreter, meaning it translates the commands of the user(you) into actions for you operating system.
+The shell is a command-line interpreter, meaning it translates the commands of the user(you) into actions for your operating system.
 The following are the shells available on each system:
 
 - Linux uses `bash` as its default, but it has support for `zsh` and more.
-- macOs uses `zsh` as its default.
-- Windows uses the `PowerShell`, which replaced the previous `Command Prompt`. It also contains support for `bash`.
+- macOS uses `zsh` as its default.
+- Windows uses `PowerShell`, which replaced the previous `Command Prompt`. It now contains bash support.
 
-`Bash` is the most popular shell and it is the default shell in most Linux distributions. `Zsh` is build on top of `bash`, meaning it has additional features which provide more flexibility.
+`Bash` is the most popular shell and it is the default shell in most Linux distributions. `Zsh` is built on top of `bash`, meaning it has additional features which provide more flexibility.
 
 <br>
 
 ## Exercise
 
-Since all 3 of the pointed out systems understand bash, we will guide you through with the same commands. There may be a slight difference in output between your CLI and our examples as different shells may output the same information differently. Also note that Linux and macOs use forward slashes (`/`) in their paths while Windows uses backslahses (`\`). As you learn about the commands, you should expirement by using them in different orders to gain a stronger familiarity on how it works.
+Since all 3 of the above systems understand bash on some level, we will guide you through the same commands. There may be a slight difference in output between your CLI and our examples as different shells may output the same information differently. Also, note that Linux and macOS use forward slashes (`/`) in their paths while Windows uses backslashes (`\``). As you learn about the commands, you should experiment by using them in different orders to gain a stronger familiarity with how it works.
 
 <br>
 
@@ -43,14 +43,14 @@ Since all 3 of the pointed out systems understand bash, we will guide you throug
 Firstly, we will have to open up a terminal.
 
 - If you are on Linux, you can either type the shortcut `ctrl + alt + t`, or hit your super key (Windows/Command key) and search for "terminal".
-- On macOs, use spotlight to search for "terminal.app" which can be opened either by clicking the magnifying glass icon on your menu bar or using the `Command + Space` shortcut.
-- On Windows, either hit the windows key on your keyboard or click on the windows button on your task bar and search for Windows PowerShell.
+- On macOS, use spotlight to search for "terminal.app" which can be opened either by clicking the magnifying glass icon on your menu bar or using the `Command + Space` shortcut.
+- On Windows, either hit the windows key on your keyboard or click on the windows button on your taskbar and search for Windows PowerShell.
 
 <br>
 
 ### Basics Commands
 
-You can find the directory you are in by typing in `pwd` command and it will return your current path, which will look something similiar to this:
+You can find the directory you are in by typing in `pwd` command and it will return your current path, which will look something similar to this:
 
 ```.
 pwd
@@ -59,7 +59,7 @@ pwd
 
 `pwd` stands for Print Working Directory, and it's useful to know your current path to know where you are in your file system.
 
-To see what files and folders are available at your current directory, use the `ls` (list) command.
+To see what files and folders are available in your current directory, use the `ls` (list) command.
 
 ```.
 ls
@@ -102,7 +102,7 @@ cat hello.txt
 Hello World
 ```
 
-To create a new file, use the `touch <file_name>` command, and if you want to create a directory, use the `mkdir <directory_name>` command. You can also specify multiple files in your command like illustrated below.
+To create a new file, use the `touch <file_name>` command, and if you want to create a directory, use the `mkdir <directory_name>` command. You can also specify multiple files in your command as illustrated below.
 
 ```.
 mkdir Taxes
@@ -114,7 +114,7 @@ ls
 hello.txt
 ```
 
-To delete files and directories, use the `rm <file_name>` and `rmdir <file_name>` commands respectfully. If a directory has files in it, you will need to add the `-r` (recursive) flag to the command. You can also remove multiple files in one command simliar to the `touch` command.
+To delete files and directories, use the `rm <file_name>` and `rmdir <file_name>` commands respectfully. If a directory has files in it, you will need to add the `-r` (recursive) flag to the command. You can also remove multiple files in one command similar to the `touch` command.
 
 ```.
 rmdir -r Taxes
@@ -131,7 +131,7 @@ Desktop Documents Downloads Library Movies Music Pictures poem.txt Public
 
 - Which command prints a file to the output?
 - How do I print out the path your terminal is operating in?
-- How can I navigate to different paths on my system?
+- How can I navigate different paths on my system?
 - What is the command to create and delete a file? What is it for directories?
 - What command can I use to list the files and directories at my current path?
 

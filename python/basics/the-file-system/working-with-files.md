@@ -14,7 +14,7 @@ priority: 21
 
 ### The open() Function
 
-The `open(file, mode)` function opens a file using a certain mode and returns it as a file object. The different modes we can open a files are:
+The `open(file, mode)` function opens a file using a certain mode and returns it as a file object. The different modes we can open files are:
 
 - `r` - Read, which is the default mode.
 - `w` - Write
@@ -39,7 +39,7 @@ and the second is by using the `with` statement:
 with open(data.txt, 'wb') as f:
 ```
 
-The `with` statement is a context manager that is practial as it automatially handles any excpetions that may arise and also manages resources so that you don't need to call `myFile.close()` as you would need to with the first implementation.
+The `with` statement is a context manager that is practical as it automatically handles any exceptions that may arise and also manages resources so that you don't need to call `myFile.close()` as you would need to with the first implementation.
 
 <br>
 
@@ -48,9 +48,9 @@ The `with` statement is a context manager that is practial as it automatially ha
 The following are common commands used on file objects in read mode:
 
 - `f.read(size)` returns a set amount of characters from the file. The default size is -1, which returns the whole file. Running this function multiple times returns the next set of characters from where the last read call left off.
-- `f.readlines()` returns a list of the lines in file.
-- `f.readline()` returns next line in file.
-- `f.tell()` returns the location of the File Handle (position in the file). The File Handle can be though of as a cursor, and it changes as we read from a file.
+- `f.readlines()` returns a list of the lines in the file.
+- `f.readline()` returns the next line in the file.
+- `f.tell()` returns the location of the File Handle (position in the file). The File Handle can be thought of as a cursor, and it changes as we read from a file.
 - `f.seek()` changes the location of the File Handle.
 
 <br>
@@ -64,7 +64,7 @@ with open(data.txt, 'w') as f:
   f.write("Hello World")
 ```
 
-If the file "data.txt" does not exist, then a new file will be created with the given string. If the file does exist, then it will be overriden with the given string. Writing consecutive write functions inside the context manager will write to the file from where the File Handle left off, similar to reading from a file. This means that the functions `tell()` and `seek()` will also work when writing files.
+If the file "data.txt" does not exist, then a new file will be created with the given string. If the file does exist, then it will be overridden with the given string. Writing consecutive write functions inside the context manager will write to the file from where the File Handle left off, similar to reading from a file. This means that the functions `tell()` and `seek()` will also work when writing files.
 
 <br>
 
