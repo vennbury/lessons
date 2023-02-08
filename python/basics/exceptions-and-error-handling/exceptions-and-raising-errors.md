@@ -15,7 +15,7 @@ priority: 34
 
 ## Exceptions
 
-As you have likely seen, writing code without errors is hard. To help with errors, we can use methods of exception handling to direct our program when an error has occurred such as using the try/except structure and raising errors.
+As you have likely seen, writing code without errors is hard. To help with errors, we can use methods of exception handling to direct our program when an error has occurred such as using the try/except structure and raising errors. Python errors return a traceback, which is information about the error such as the error message, the line number where the error occurred, and the sequence of functions that led to that error.
 
 <br>
 
@@ -88,7 +88,7 @@ else:
 
 ## Raising Errors
 
-Just as we could catch errors in our except statements, we can also raise exceptions if our code behaves a particular way. To do so, we can use the `raise` keyword.
+Just as we could catch errors in our except statements, we can also raise exceptions if our code behaves a particular way. To do so, we can use the `raise` keyword along with a helpful message passed into our exception.
 
 ```py
 number = 'Hello'
@@ -103,6 +103,8 @@ number = 'Hello'
 if type(number) != int:
     raise TypeError('Not a number')
 ```
+
+Remember to raise errors with caution, if they are raised outside of a try/except block they will crash your program.
 
 <br>
 
