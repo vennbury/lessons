@@ -13,19 +13,17 @@ priority: 9
 - Understand the commonality between lists and strings
 - Learn about sets, their purpose, and methods of working with them
 
-<br>
-
 ## About this Lesson
 
 In this lesson, we will learn about the list, tuple, and set data types that allow us to store multiple items in a single variable. These data types are built into Python, and there is one more data type called a dictionary that we will learn in the next lesson.
 
-<br>
-
 ## Lists
+
+Lists store a collection of items that can be changed, of different data types, have duplicated, and are ordered.
 
 ### Initializing Lists
 
-Lists store a collection of items that can be changed, of different data types, have duplicated, and are ordered.
+Lists are created using square brackets `[]` and items are separated by commas.
 
 ```py
 fruits = ["apple", "bannana", "peach"]
@@ -358,8 +356,6 @@ print(animals_str_2.split(" "))
 ['catMOObearMOOram']
 ```
 
-<br>
-
 ## Tuples
 
 As we have seen, we can add and remove elements from a list, sort the list, and extend it with another list. All of these operations change the original list meaning that the list data type is "mutable". The tuple data type is similar to the list, but it is "immutable" as we cannot modify it once it is made. We can create an empty tuple with parenthesis `()` or the `tuple()` method.
@@ -392,8 +388,6 @@ print('ram' in animals)
 True
 False
 ```
-
-<br>
 
 ## Sets
 
@@ -493,8 +487,6 @@ print(nums_1.union(nums_2))
 {1, 2, 3, 4, 5, 6}
 ```
 
-<br>
-
 ## Exercises
 
 ### Lists
@@ -521,8 +513,6 @@ print(nums_1.union(nums_2))
 2. Create a set that contains 3 of the same fruits as the set in (1), and 2 different ones (or just 2 random strings).
 3. Perform and print the results of three operations: intersection, difference, and union.
 
-<br>
-
 ## Knowledge Check
 
 - How to create lists? (Don't forget about string methods)
@@ -532,8 +522,6 @@ print(nums_1.union(nums_2))
 - What are some of the ways to sort a list?
 - How to create empty tuples?
 - What's the difference between a list, a tuple, and a set?
-
-<br>
 
 ## Additional Resources
 

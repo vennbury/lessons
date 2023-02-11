@@ -11,14 +11,12 @@ priority: 10
 - How to add and remove dictionary items
 - How to access dictionary elements
 - How to loop through dictionary elements
-  <br><br>
 
 ## Learning material
 
 Watch this video:
 
 - [Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5)
-  <br><br>
 
 ## Knowledge check
 
@@ -27,8 +25,6 @@ Watch this video:
 - What do `del` and `.pop()` do in the context of dictionaries? What are the differences?
 - How to get dictionary keys, values, and pairs of keys and values?
 - What is the syntax for a loop that goes through each item in a dictionary?
-  <br><br>
-
 
 ## Exercises
 
@@ -62,7 +58,7 @@ Here's a dictionary:
         "dob": 1871,
         "died": 1922,
       },
-    ], 
+    ],
   }
 ```
 
@@ -70,5 +66,3 @@ Here's a dictionary:
 2. Print the `died` field using the `.get()` method.
 3. Remove the `dead` field.
 4. Loop through the dictionary and print out 3 things separately: a list of the dictionary's keys, values, and items.
-
-<br>

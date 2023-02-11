@@ -10,9 +10,8 @@ priority: 21
 - Learn how to create, read, write, and save files with your local storage.
 - The two ways to use the `open()` function and their difference.
 - Common operations that can be used on files.
-  <br><br>
 
-### The open() Function
+## The open() Function
 
 The `open(file, mode)` function opens a file using a certain mode and returns it as a file object. The different modes we can open files are:
 
@@ -41,9 +40,7 @@ with open(data.txt, 'wb') as f:
 
 The `with` statement is a context manager that is practical as it automatically handles any exceptions that may arise and also manages resources so that you don't need to call `myFile.close()` as you would need to with the first implementation.
 
-<br>
-
-### Reading Files
+## Reading Files
 
 The following are common commands used on file objects in read mode:
 
@@ -53,9 +50,7 @@ The following are common commands used on file objects in read mode:
 - `f.tell()` returns the location of the File Handle (position in the file). The File Handle can be thought of as a cursor, and it changes as we read from a file.
 - `f.seek()` changes the location of the File Handle.
 
-<br>
-
-### Writing Files
+## Writing Files
 
 We can write to a file using the `write()` function:
 
@@ -66,15 +61,11 @@ with open(data.txt, 'w') as f:
 
 If the file "data.txt" does not exist, then a new file will be created with the given string. If the file does exist, then it will be overridden with the given string. Writing consecutive write functions inside the context manager will write to the file from where the File Handle left off, similar to reading from a file. This means that the functions `tell()` and `seek()` will also work when writing files.
 
-<br>
-
 ## Knowledge Check
 
 - Why is opening a file with the `with` statement preferable?
 - When would one want to open a file in binary mode?
 - What happens when we write to a file that already exists?
-
-<br>
 
 ## Additional Resources
 

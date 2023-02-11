@@ -6,7 +6,7 @@ project: exercise
 
 This lesson contains several regex exercises. Each link leads to REPLIT - an online IDE. Complete these exercises to solidify your knowledge of regular expressions.
 
-<br>
+
 
 ## Assignment
 
@@ -15,4 +15,4 @@ This lesson contains several regex exercises. Each link leads to REPLIT - an onl
 - [Convert Date Format](https://replit.com/@Vennbury/convertDateFormat#main.py)
 - [Snake Case to Camel Case](https://replit.com/@Vennbury/snakeCaseToCamelCase#main.py)
 
-<br>
+

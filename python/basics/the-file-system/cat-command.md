@@ -34,7 +34,6 @@ If no flag is present, the program will print the file(s) that are mentioned. Al
 - `>>` Will ask the user for input and append it to the given file.
 - `[file(s)_to_append] >>` appends the content of `[file(s)_to_append]` to the content of file.
 
-<br>
 
 ## Creating the Program
 

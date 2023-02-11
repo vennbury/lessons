@@ -15,8 +15,6 @@ priority: 8
 - Describe different number types that Python supports
 - Be able to name some common Python operators
 
-<br>
-
 ## How to Run Python Programs
 
 There are two ways you will write Python code in this course: via Python shell (initially and for simple tasks) and via VS Code (most of the time). In this section, we'll explain how to use both ways.
@@ -37,8 +35,6 @@ You have two options on how to run this script now.
 
 1. Open the terminal and type `python [name_of_the_file].py`. You should see the output as "Hello, world!".
 2. Press `Shift + Enter` to run the script. The terminal should open on its own and display the output.
-
-<br>
 
 ## Python Primitives
 
@@ -153,8 +149,6 @@ There are also some naming restrictions that you should follow when naming varia
 - It can't begin with a number.
 
 Variables in Python are case-sensitive, which means the same variables capitalized differently are different. It is standard practice in python to use camelcase when naming your variables, where you capitalize every word other than the first like `helloWorld` and `oneTwoThree`.
-
-<br>
 
 ## Conventions and Basic Functions
 
@@ -453,8 +447,6 @@ print(float("5"))  # 5.0
 print(float("Hi")) # ValueError
 ```
 
-<br>
-
 ## Knowledge Check
 
 - What is a variable name convention in Python?
@@ -465,8 +457,6 @@ print(float("Hi")) # ValueError
 - What function provides documentation for functions, classes, and even modules?
 - Can you explain the difference between `/` and `//`?
 - What are shorthand assignment operators?
-
-<br>
 
 ## Additional Resources
 

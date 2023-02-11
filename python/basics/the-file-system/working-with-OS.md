@@ -12,15 +12,11 @@ priority: 23
 - Go over basic commands of the `os` module.
 - Learn how to copy, move, rename, and delete files with the `shutil` module.
 
-<br>
-
-### Differences between Operating Systems
+## Differences between Operating Systems
 
 Operating systems use different path separators when working with files. Path separators are characters that separate individual paths. For example, a path in Windows looks like `C:\\Users\\Joe\\data.txt`, while in Linux it looks like `/home/joe/data.txt'`. This is because Windows uses backslashes and macOS + Linux use forward slashes as their path separators. Windows uses two backslashes to avoid escape characters. Therefore, when writing programs that work on multiple operating systems, we will use the `Path()` function from the pathlib module so that we don't run into errors.
 
-<br>
-
-### Pathlib module and the Path Object
+## Pathlib module and the Path Object
 
 When working with Windows, the `Path(path)` returns a WindowsPath object, and in macOS + Linux, it returns a PosixPath object. Using the `str()` method on these objects yields the path string, which automatically happens when using the `print()` function as shown below.
 
@@ -59,7 +55,7 @@ We will be using the windows path `C:\\Users\\Joe\\data.txt` as an example to sh
 
 <br>
 
-#### Glob Patterns with the pathlib Module
+### Glob Patterns with the pathlib Module
 
 We can use glob patterns, which are similar to using regex, to find specific files. Since using the `glob()` method yields a generator object, we will be using the `list()` function when printing them out.
 
@@ -67,9 +63,7 @@ We can use glob patterns, which are similar to using regex, to find specific fil
 - `list(path.glob('*.py'))` returns all python files.
 - `list(path.glob('*.??))` return all files with a 2-character extension. The `?` represents any single character.
 
-<br>
-
-### os Module
+## os Module
 
 The os module lets us interact with our operating system by navigating files, getting file information, modifying environment variables, and more. Unlike the way that the `pathlib` module lets us use paths like objects, the os module represents paths as strings. We recommend using the pathlib module due to its ease of use, but we'll still go over some aspects of the `os` module.
 
@@ -91,7 +85,7 @@ Following are some common commands:
 
 <br>
 
-#### os.path Module
+### os.path Module
 
 We can also use commands on paths
 
@@ -104,9 +98,7 @@ We can also use commands on paths
 - `os.path.isFile(path)` returns whether your path is a file or not.
 - `os.path.splitext(path)` returns the path and its extension.
 
-<br>
-
-### shutil Module
+## shutil Module
 
 The `shutil` module provides the capability to copy, move, rename, and delete with both string paths and `Path` objects.
 
@@ -132,15 +124,11 @@ This will rename the file "data.txt" to "hello.txt".
 
 We can delete a folder and all of its contents using the `shutil.rmtree(path)` function.
 
-<br>
-
 ## Knowledge Check
 
 - How do we find our current working directory with the `pathlib` module? What is it in the `os` module?
 - What is the difference between the `os` and the `pathlib` modules?
 - How do we rename a file in the `shutil` module?
-
-<br>
 
 ## Additional Resources
 

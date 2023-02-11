@@ -3,15 +3,11 @@ title: Intro to Programming
 priority: 3
 ---
 
-# Introduction to Programming
-
 ## What is programming?
 
 Programming is all around us, from running the operating system and applications on your phone and computer to running your car engine, traffic lights, and the internet.
 Technically speaking, programming is the process of creating instructions for computer programs. Programs can be thought of as a sequence of steps to achieve a result.
 To write a program, otherwise known as coding, you will need to use a programming language.
-
-<br>
 
 ## Why Python?
 
@@ -21,8 +17,6 @@ Python is a very popular language for beginner programmers. We will be using it 
 - It is very versatile.
 - Includes many libraries.
 - Has a large community of users.
-
-<br>
 
 ## Differences in Programming Languages
 

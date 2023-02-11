@@ -11,7 +11,7 @@ project: exercise
 - Basic commands
 - Create and remove files
 
-<br>
+
 
 ## About The Command Line
 
@@ -30,7 +30,7 @@ The following are the shells available on each system:
 
 `Bash` is the most popular shell and it is the default shell in most Linux distributions. `Zsh` is built on top of `bash`, meaning it has additional features which provide more flexibility.
 
-<br>
+
 
 ## Exercise
 
@@ -125,7 +125,7 @@ ls
 Desktop Documents Downloads Library Movies Music Pictures poem.txt Public
 ```
 
-<br>
+
 
 ## Knowledge Check
 
@@ -135,7 +135,6 @@ Desktop Documents Downloads Library Movies Music Pictures poem.txt Public
 - What is the command to create and delete a file? What is it for directories?
 - What command can I use to list the files and directories at my current path?
 
-<br>
 
 ## Additional Resources
 

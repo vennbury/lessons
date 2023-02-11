@@ -4,9 +4,9 @@ priority: 12
 project: project
 ---
 
-This is your first project - a guessing game. In it, we will learn about Python's `random` module, process user's input, and practice the program flow.
-
 <br>
+
+This is your first project - a guessing game. In it, we will learn about Python's `random` module, process user's input, and practice the program flow.
 
 ## Instructions
 
@@ -20,10 +20,6 @@ This is your first project - a guessing game. In it, we will learn about Python'
 7. Compare the user's choice and the computer's random number and display the result.
 8. Right now, if the user doesn't get the number right from the first try, the game will stop. Let's fix that. Depending on the number of attempts you will give your user, use the appropriate loop and put user input and comparison logic inside that loop.
 
-<br>
-
 ## Conclusion
 
 If you followed the instructions and made everything work, congratulations! You've built your first Python project. One among many on your journey. Let's keep solidifying what we've learned so far in practice. Next, we're going to build Hangman game.
-
-<br>

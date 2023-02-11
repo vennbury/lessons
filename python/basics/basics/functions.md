@@ -14,7 +14,6 @@ priority: 14
 - How to specify function parameters?
 - What are default parameters?
 - What is a variable scope in Python?
-  <br><br>
 
 ## Learning material
 
@@ -22,7 +21,6 @@ Watch these two videos on functions:
 
 - [Python Functions](https://www.youtube.com/watch?v=9Os0o3wzS_I&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=8)
 - [Scope](https://www.youtube.com/watch?v=QVdf0LgmICw&ab_channel=CoreySchafer)
-  <br><br>
 
 ## Knowledge check
 
@@ -32,7 +30,6 @@ Watch these two videos on functions:
 - How to deal with the unknown number of function parameters?
 - What is the LEGB rule?
 - What two keywords help you change the score of a variable?
-  <br><br>
 
 ## Exercises
 
@@ -40,8 +37,6 @@ Watch these two videos on functions:
 2. Create a function `calculator` that takes three arguments: 2 numbers and a string. The string's value can be one of the 4 values: `add`, `substract`, `multiply`, or `divide`. Return a result of an operation that corresponds to the string. (Use Python's `switch` statement, about which you can read more [here](https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/)). Don't forget to put a `default` case that displays a meaningful message.
 3. Make a function that prints out some message. Define the second function that takes a function as a parameter. Call the second function and pass first function as a parameter.
 4. Solve a Fibonacci Number problem. Here's the [problem](https://leetcode.com/problems/fibonacci-number/) formulation on LeetCode.
-
-<br>
 
 ## Additional Resources
 

@@ -6,8 +6,9 @@ project: project
 
 # Rock, Paper, Scissors!
 
+<br>
+
 In this project, we will build a rock paper scissors game using the `random` module. If you're unfamiliar with the rules of the game, here's the [Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors) article wit the rules.
-<br><br>
 
 ## Instructions
 

@@ -7,7 +7,7 @@ project: exercise
 # Practicing Your Workflow
 
 This exercise is the foundation of your workflow for the whole course. You will practice creating GitHub repositories, cloning them on your computer, creating files with the Command Line Interface (CLI), adding to the staging area, committing, and pushing all of the changes to GitHub.
-<br><br>
+
 
 ## Exercise
 
@@ -29,7 +29,7 @@ This exercise is the foundation of your workflow for the whole course. You will 
 - <b>Step 11.2:</b> Click on a "+" button to add the file to the staging area.
 - <b>Step 11.3:</b> Write "First commit" in the textbox on top and click the "commit" button right below it.
 - <b>Step 11.4:</b> Refresh your GitHub repository and you should see your `first.py` file there.
-  <br><br>
+  
 
 ## Conclusion
 
