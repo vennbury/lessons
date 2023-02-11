@@ -7,13 +7,9 @@ priority: 2
 
 Before we embark on our journey, we have to think about the mindset we will adopt going forward. This will help us avoid burnout and make sure we are on track to completing this course.
 
-
-
 ## Growth Mindset
 
-We encourage course members to check out this 10-minute [TED talk](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) that talks about the importance of maintaining a growth mindset, which will help you be more efficient in your learning.
-
-
+We encourage course members to check out this 10-minute [TED talk](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) that talks about the importance of maintaining a growth mindset, which will help you be more efficient in your learning.
 
 ## Dunning Kruger Effect
 
@@ -26,7 +22,6 @@ Take a look at this graph of the Dunning-Kruger Effect:
 
 ![Dunning Kruger Effect](/lessons/python/basics/introduction/dunning-kruger-effect.png)
 
-
 ## Flow State
 
 You may have heard of the [flow state](<https://en.wikipedia.org/wiki/Flow_(psychology)>), also called being "in the zone", which is a mental state where you feel energy, focus, and joy. Being able to get yourself into this mental state will help you both have fun and learn more.
@@ -38,7 +33,6 @@ Taking a look at the flow state graph below, we define two axes, the horizontal 
 <br>
 
 ![flow-state](/lessons/python/basics/introduction/flow-state.png)
-
 
 ## Getting stuck
 
