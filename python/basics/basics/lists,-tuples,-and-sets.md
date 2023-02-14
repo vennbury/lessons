@@ -391,7 +391,7 @@ False
 
 ## Sets
 
-Sets are also similar to lists except that they do not care about order and contain no duplicates. They have fast access to items the way tuples do. To initialize a set, we use the `set()` method. If we use empty curly braces `{}`, we will initialize a dictionary (we will learn about in the next lesson).
+Sets are also similar to lists except that they do not care about order and contain no duplicates. They have fast access to items the way tuples do. To initialize a set, we use the `set()` method. If we use empty curly braces `{}`, we will initialize a dictionary (we will learn about this in the next lesson).
 
 ```py
 empty_set = set()

@@ -148,7 +148,7 @@ There are also some naming restrictions that you should follow when naming varia
 - It can only contain letters, numbers, or underscores (\_)
 - It can't begin with a number.
 
-Variables in Python are case-sensitive, which means the same variables capitalized differently are different. It is standard practice in python to use camelcase when naming your variables, where you capitalize every word other than the first like `helloWorld` and `oneTwoThree`.
+Variables in Python are case-sensitive, which means the same variables capitalized differently are different. It is standard practice to use the snake case naming convention in python for variables and anything else you need to name. Snake case involves only lowercase letters and separating spaces with the underscore `_` character like this: `my_variable` and `phone_book`.
 
 ## Conventions and Basic Functions
 
@@ -192,9 +192,9 @@ Blank spaces, also known as whitespaces, in Python are ignored. Indentation, whi
 As we just learned, we can comment out pieces of code with multi-line strings that aren't assigned to any variable. This also means we can assign a multiline string to a variable.
 
 ```py
-multiLineString = '''This is a multi-line
+mutli_line_string = '''This is a multi-line
 string'''
-print(multiLineString)
+print(mutli_line_string)
 
 '''
 Output:
@@ -378,9 +378,9 @@ To list the methods and attributes (variables of an object) you can use on an ob
 Just as we learned with the shell earlier in this lesson, we can add two strings together. This also means that if we have two variables that are strings, we can add them.
 
 ```py
-firstName = 'John'
-lastName = 'Doe'
-print(firstName + lastName)
+first_name = 'John'
+last_name = 'Doe'
+print(first_name + last_name)
 '''
 Output:
 JohnDoe
@@ -390,7 +390,7 @@ JohnDoe
 We can also add a space between the first and last names.
 
 ```py
-print(firstName + ' ' + lastName)
+print(first_name + ' ' + last_name)
 '''
 Output
 John Doe
@@ -400,7 +400,7 @@ John Doe
 In Python, we sometimes may add a lot of strings together and it can get hard to keep track of them. For this reason, we have formatted strings. The way formatted strings work is that they have placeholders that are curly braces `{}` and you call the `str.format(variables)` function.
 
 ```py
-print('{} {}'.format(firstName, lastName))
+print('{} {}'.format(first_name, last_name))
 '''
 Output
 John Doe
@@ -410,7 +410,7 @@ John Doe
 As you can see, the first name gets assigned to the first placeholder and the last name gets assigned to the second. An easier way to use formatted strings is by using an f at the front of the string and using the variable names in the placeholder.
 
 ```py
-print(f'{firstName} {lastName}')
+print(f'{first_name} {last_name}')
 '''
 Output
 John Doe
@@ -420,7 +420,7 @@ John Doe
 We can also perform method operations on the string variables inside of the placeholder.
 
 ```py
-print(f'{firstName.upper()} {lastName.upper()}')
+print(f'{first_name.upper()} {last_name.upper()}')
 '''
 Output
 JOHN DOE
