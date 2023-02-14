@@ -444,7 +444,7 @@ print(nums)
 {3, 5}
 ```
 
-Sets provide capability for operations that are used in set theory. We can use the `set.intersection(set)` method to find values in boths sets.
+Sets provide the capability for operations that are used in set theory. We can use the `set.intersection(set)` method to find values in boths sets.
 
 ```py
 nums_1 = {1, 2, 3, 4}
