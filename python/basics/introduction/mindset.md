@@ -3,7 +3,7 @@ title: Mindset
 priority: 2
 ---
 
-# Mindset
+<br>
 
 Before we embark on our journey, we have to think about the mindset we will adopt going forward. This will help us avoid burnout and make sure we are on track to completing this course.
 
