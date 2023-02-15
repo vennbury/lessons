@@ -279,6 +279,6 @@ Here's a dictionary:
 
 ## Additional Resources
 
-- [Corey Schafer's video](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5) on Python Dictionaries
+- [Corey Schafer's video on Python Dictionaries](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5)
 - [W3 Schools on Python Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
 - [Python Documentation on Python Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)

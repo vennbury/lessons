@@ -64,6 +64,8 @@ print(empty_list_2)
 
 Just like we could with strings, we can index and slice strings to get their values.
 
+<b>Indexing:</b>
+
 ```py
 nums = [1, 2, 3, 4, 5]
 print(nums[0])
@@ -76,6 +78,10 @@ print(nums[-1])
 1
 5
 ```
+
+<br>
+
+<b> Slicing:</b>
 
 ```py
 nums = [1, 2, 3, 4, 5]
@@ -525,6 +531,6 @@ print(nums_1.union(nums_2))
 
 ## Additional Resources
 
-- [Comprehensive overview](https://phoenixnap.com/kb/python-data-types#:~:text=Set%20Data%20Type%20%20%20Data%20Type%20%20complex%20%28%3Cvalue%3E%29%20%205%20more%20rows%20) of standard data types.
-- Corey Schafer's video on [Lists, tuples, and sets](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
-- Corey Schafer's video on [Slicing strings and lists](https://www.youtube.com/watch?v=ajrtAuDg3yw&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
+- [Comprehensive overview of standard data types](https://phoenixnap.com/kb/python-data-types#:~:text=Set%20Data%20Type%20%20%20Data%20Type%20%20complex%20%28%3Cvalue%3E%29%20%205%20more%20rows%20).
+- [Corey Schafer's video on Lists, Tuples, and Sets](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
+- [Corey Schafer's video on Slicing Strings and Lists](https://www.youtube.com/watch?v=ajrtAuDg3yw&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).

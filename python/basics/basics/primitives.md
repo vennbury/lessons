@@ -3,8 +3,6 @@ title: Python Primitives
 priority: 8
 ---
 
-# Python Basics
-
 ## Learning outcomes
 
 - Able to run Python Shell in CLI and VS Code
@@ -46,7 +44,7 @@ While learning the basic components of python, we would like you to follow along
 
 If we enter a number into our shell, we get that number returned (printed to our shell). We can also enter an expression, such as simple mathematical equations, which will get evaluated and returned.
 
-```bash
+```sh
 >>> 12
 12
 >>> 12*12
@@ -92,7 +90,7 @@ In Python, you can use either double quotes("") or single quotes('') for strings
 
 Not all data types can be used in expressions with other data types. For example, adding integers or decimals with strings results in a `TypeError`, meaning you are mixing up your data types.
 
-```bash
+```sh
 >>> 'hello' + 5
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
@@ -101,7 +99,7 @@ TypeError: can only concatenate str (not "int") to str
 
 We have two solutions to this problem, we can either place quotations around our integer or use a built-in python converter called `str()` to change the number to a string.
 
-```bash
+```sh
 >>> 'hello' + '5'
 'hello5'
 >>> 'hello' + str(5)
@@ -112,7 +110,7 @@ We have two solutions to this problem, we can either place quotations around our
 
 Although we can only add strings with strings, we can, however, multiply strings with integers (but not floating-point numbers or other strings).
 
-```bash
+```sh
 >>> 'hello' * 3
 'hellohellohello'
 ```
@@ -461,9 +459,9 @@ print(float("Hi")) # ValueError
 ## Additional Resources
 
 - How to [run Python code in VSC](https://www.dev2qa.com/how-to-run-python-code-in-visual-studio-code/#:~:text=Select%20Installed%20Python%20Interpreter%20In%20Visual%20Studio%20Code.,installed%20path%20%29%20installed%20on%20your%20OS.%20).
-- w3schools on [operators](https://www.w3schools.com/python/python_operators.asp).
+- [W3Schools - Operators](https://www.w3schools.com/python/python_operators.asp).
 - [PEP 8](https://pep8.org/). This is the official style guide for Python code. It contains all of the official python conventions. For now, try to stick to it as much as possible because it makes your code more readable. Keep in mind, however, that with time you'll learn to recognize situations when this guide doesn't apply.
-- Chapter 1 of Automate the Boring Stuff with Python book on [variables and operators](https://automatetheboringstuff.com/2e/chapter1/).
-- Corey Schafer's video on [strings](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
-- Corey Schafer's video on [f-strings](https://www.youtube.com/watch?v=nghuHvKLhJA&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
-- Corey Schafer's video on [integers and floats](https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
+- [Chapter 1 of Automate the Boring Stuff with Python book on Variables and Operators](https://automatetheboringstuff.com/2e/chapter1/).
+- [Corey Schafer's video on strings](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
+- [Corey Schafer's video on f-strings](https://www.youtube.com/watch?v=nghuHvKLhJA&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
+- [Corey Schafer's video on integers and floats](https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU).
